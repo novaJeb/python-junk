@@ -16,6 +16,7 @@ It works, sorta.
 
 ## ParseCSSJunk / ParseHTMLJunk
 An attempt at sorting out CSS/HTML code that's had its linebreaks and indentation removed.  
+Save your condensed and jumbled up code into the respective ParseMe.txt file, run the parser, then take a peek in the FillMe.txt file.  
 Sometimes works, but has been breaking lately so I dunno.
 
 ## NovaBot
