@@ -1,0 +1,14 @@
+      <div class='footer'>
+        <div>
+          <a class='foot-button' href='Contact.html'>Contact Us</a>
+          <a class='foot-button' href='Donate.html'>Donate</a>
+          <p class='para-main small'>FOHH is a registered 501(c)(3) non-profit organization</p>
+        </div>
+        <div>
+          <h5 class='plugline'>Friends of Holmes Harbor &#169; 2017</br>Website by bloopityblahblahblooblorp
+          </h5>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

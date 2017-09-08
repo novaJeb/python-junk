@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='UTF-8';>
+    <meta name='viewport' content='width=device-width'>
+    <title>{}</title>
+    <link rel='stylesheet' type='text/css' href='style.css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link rel="icon" href="favicon.png" type="image/x-icon">
+  </head>
+  <body>
+    <div class='container'>
+      <div class='header'>
+        <div id='banner-image'>
+          <h1 id='banner-text'>Friends Of</br>Holmes Harbor</h1>
+        </div>
+        <nav class='banner-menu'>
+          <a class='banner-button' href='Home.html'>Home</a>
+          <a class='banner-button' href='About.html'>About Us</a>
+          <a class='banner-button' href='Issues.html'>Current Issues</a>
+          <a class='banner-button' href='Education.html'>Educational</a>
+          <a class='banner-button' href='Resources.html'>Resources</a>
+          <a class='banner-button' href='Archives.html'>Archives</a>
+          <!-- <a class='banner-button' href='FOHH-Contact.html'>Contact</a> -->
+        </nav>
+      </div>
