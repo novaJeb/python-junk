@@ -8,7 +8,8 @@ Works by locating
 and  
 \<div class='footer'>  
 then copying the data found between those tags, as well as special data like title tags.
-Wipes document, writes in new header, writes in copied data, then writes in new footer, while filling in the special data along the way.
+Wipes document, writes in new header, writes in copied data, then writes in new footer, while filling in the special data along the way.  
+This sounds awful and a bit scary, and it is, but it hasn't failed me yet.
 
 ## TkinterMinesweeper
 A recreation of minesweeper using the Tkinter package.  
