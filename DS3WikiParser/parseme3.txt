@@ -1,0 +1,17 @@
+<td style="width: 344px;"><a class="wiki_link" href="/Chain+Armor"><img src="/file/Dark-Souls-3/chain_armor-icon.png" alt width="80">Chain Armor</a></td>
+<td style="text-align: center; width: 58px;">11.1</td>
+<td style="text-align: center; width: 58px;">6.8</td>
+<td style="text-align: center; width: 58px;">13.2</td>
+<td style="text-align: center; width: 58px;">10.0</td>
+<td style="text-align: center; width: 58px;">8.3</td>
+<td style="text-align: center; width: 58px;">6.6</td>
+<td style="text-align: center; width: 58px;">4.2</td>
+<td style="text-align: center; width: 58px;">9.0</td>
+<td style="text-align: center; width: 57px;">63</td>
+<td style="text-align: center; width: 57px;">33</td>
+<td style="text-align: center; width: 57px;">33</td>
+<td style="text-align: center; width: 57px;">22</td>
+<td style="text-align: center; width: 59px;">6.8</td>
+<td style="text-align: center; width: 59px;">8.8</td>
+<td style="text-align: center; width: 60px;">350</td>
+</tr>

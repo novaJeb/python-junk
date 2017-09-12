@@ -3,11 +3,16 @@ grand_array = []
 number_array = []
 stat_marker = False
 count = 0
+
+
+stat_list = {'Name':0, 'Pysical Resistance':1, 'Strike Defense':2, 'Slash Defense':3,
+             'Thrust Defense':4, 'Magic Defense':5, 'Fire Defense':6, 'Lightning Defense':7,
+             'Dark Defense':8, 'Bleed Resistance':9, 'Poison Resistance':10, 'Frost Resistance':11,
+             'Curse Resistance':12, 'Poise':13, 'Weight':14, 'Durability':15}
+
 with open('parseme.txt', 'r') as source_file:
     for line in source_file:
-##        print(count)
-        if line[:12]=='<td style="w':
-##            print(stat_array)
+        if line.strip()[:12]=='<td style="w' and 'margin-left' not in line and '&amp' not in line:
             found_trigger = False
             reverse_count = 1
             new_string = ''
@@ -22,27 +27,25 @@ with open('parseme.txt', 'r') as source_file:
                 if right_carrots == 3:
                     found_trigger = True
             new_string = new_string[::-1][1:-10]
-            print(stat_array)
             grand_array.append(stat_array)
             stat_array=[]
             stat_array.append(new_string)
-            print(stat_array)
-##            if count != 0: stat_array = []
         if line[:12]=='<td style="t':
             stat_array.append(line.strip()[45:-5])
-        count += 1
     grand_array.append(stat_array)
-    print(stat_array)
-##    print(grand_array)
 del grand_array[0]
-##print(grand_array)
+
+def stat_value(key, array):
+    num = array[stat_list[key]]
+    return num
 
 count2 = 0
-##for i in grand_array:
-##    numero = round(float(i[9])/float(i[14]), 2)
-##    number_array.append(numero)
-    
-##    print(numero)
-##print(number_array)
-##print(max(number_array))
-##print(grand_array[number_array.index(max(number_array))][0], '@', max(number_array))
+for i in grand_array:
+##    if float(stat_value('Weight', i))>20:
+##        numero = round(float(stat_value('Poise', i))/float(stat_value('Weight', i)), 2)
+##        if numero>1.2:
+        numero=round(float(stat_value('Weight', i)))
+        print(stat_value('Name', i))
+        number_array.append(numero)
+
+print(grand_array[number_array.index(max(number_array))][0], '@', max(number_array))
