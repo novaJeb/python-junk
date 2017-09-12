@@ -1,0 +1,1677 @@
+<td style="width: 344px;"><a class="wiki_link" href="/Chain+Armor"><img src="/file/Dark-Souls-3/chain_armor-icon.png" alt width="80">Chain Armor</a></td>
+<td style="text-align: center; width: 58px;">11.1</td>
+<td style="text-align: center; width: 58px;">6.8</td>
+<td style="text-align: center; width: 58px;">13.2</td>
+<td style="text-align: center; width: 58px;">10.0</td>
+<td style="text-align: center; width: 58px;">8.3</td>
+<td style="text-align: center; width: 58px;">6.6</td>
+<td style="text-align: center; width: 58px;">4.2</td>
+<td style="text-align: center; width: 58px;">9.0</td>
+<td style="text-align: center; width: 57px;">63</td>
+<td style="text-align: center; width: 57px;">33</td>
+<td style="text-align: center; width: 57px;">33</td>
+<td style="text-align: center; width: 57px;">22</td>
+<td style="text-align: center; width: 59px;">6.8</td>
+<td style="text-align: center; width: 59px;">8.8</td>
+<td style="text-align: center; width: 60px;">350</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Cleric+Blue+Robe"><img src="/file/Dark-Souls-3/cleric_blue_robe-icon.png" alt width="64" height="100">Cleric Blue Robe</a></td>
+<td style="text-align: center; width: 58px;">4.9</td>
+<td style="text-align: center; width: 58px;">7.3</td>
+<td style="text-align: center; width: 58px;">6.0</td>
+<td style="text-align: center; width: 58px;">4.2</td>
+<td style="text-align: center; width: 58px;">12.8</td>
+<td style="text-align: center; width: 58px;">12.3</td>
+<td style="text-align: center; width: 58px;">13.2</td>
+<td style="text-align: center; width: 58px;">13.2</td>
+<td style="text-align: center; width: 57px;">45</td>
+<td style="text-align: center; width: 57px;">61</td>
+<td style="text-align: center; width: 57px;">49</td>
+<td style="text-align: center; width: 57px;">68</td>
+<td style="text-align: center; width: 59px;">1.4</td>
+<td style="text-align: center; width: 59px;">6.0</td>
+<td style="text-align: center; width: 60px;">260</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Deserter+Armor"><img src="/file/Dark-Souls-3/deserter_armor-icon.png" alt width="80" height="100">Deserter Armor</a></td>
+<td style="text-align: center; width: 58px;">11.7</td>
+<td style="text-align: center; width: 58px;">9.3</td>
+<td style="text-align: center; width: 58px;">11.7</td>
+<td style="text-align: center; width: 58px;">11.1</td>
+<td style="text-align: center; width: 58px;">6.6</td>
+<td style="text-align: center; width: 58px;">7.5</td>
+<td style="text-align: center; width: 58px;">4.2</td>
+<td style="text-align: center; width: 58px;">10.4</td>
+<td style="text-align: center; width: 57px;">50</td>
+<td style="text-align: center; width: 57px;">33</td>
+<td style="text-align: center; width: 57px;">36</td>
+<td style="text-align: center; width: 57px;">22</td>
+<td style="text-align: center; width: 59px;">8.6</td>
+<td style="text-align: center; width: 59px;">8.6</td>
+<td style="text-align: center; width: 60px;">350</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Faraam+Armor"><img src="/file/Dark-Souls-3/faraam_armor-icon.png" alt width="64" height="100">Faraam Armor</a></td>
+<td style="text-align: center; width: 58px;">13.9</td>
+<td style="text-align: center; width: 58px;">13.8</td>
+<td style="text-align: center; width: 58px;">13.9</td>
+<td style="text-align: center; width: 58px;">12.8</td>
+<td style="text-align: center; width: 58px;">10.7</td>
+<td style="text-align: center; width: 58px;">12.2</td>
+<td style="text-align: center; width: 58px;">11.2</td>
+<td style="text-align: center; width: 58px;">11.2</td>
+<td style="text-align: center; width: 57px;">59</td>
+<td style="text-align: center; width: 57px;">40</td>
+<td style="text-align: center; width: 57px;">60</td>
+<td style="text-align: center; width: 57px;">27</td>
+<td style="text-align: center; width: 59px;">17.3</td>
+<td style="text-align: center; width: 59px;">12.7</td>
+<td style="text-align: center; width: 60px;">400</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Knight+Armor"><img src="/file/Dark-Souls-3/knight_armor-icon.png" alt width="80">Knight Armor</a></td>
+<td style="text-align: center; width: 58px;">13.1</td>
+<td style="text-align: center; width: 58px;">11.0</td>
+<td style="text-align: center; width: 58px;">13.0</td>
+<td style="text-align: center; width: 58px;">12.4</td>
+<td style="text-align: center; width: 58px;">7.6</td>
+<td style="text-align: center; width: 58px;">11.0</td>
+<td style="text-align: center; width: 58px;">6.7</td>
+<td style="text-align: center; width: 58px;">8.4</td>
+<td style="text-align: center; width: 57px;">45</td>
+<td style="text-align: center; width: 57px;">36</td>
+<td style="text-align: center; width: 57px;">38</td>
+<td style="text-align: center; width: 57px;">24</td>
+<td style="text-align: center; width: 59px;">12.4</td>
+<td style="text-align: center; width: 59px;">10.8</td>
+<td style="text-align: center; width: 60px;">360</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Hard+Leather+Armor"><img src="/file/Dark-Souls-3/hard_leather_armor-icon.png" alt width="80" height="100">Hard Leather Armor</a></td>
+<td style="text-align: center; width: 58px;">10.3</td>
+<td style="text-align: center; width: 58px;">10.8</td>
+<td style="text-align: center; width: 58px;">10.3</td>
+<td style="text-align: center; width: 58px;">10.3</td>
+<td style="text-align: center; width: 58px;">8.7</td>
+<td style="text-align: center; width: 58px;">9.4</td>
+<td style="text-align: center; width: 58px;">7.0</td>
+<td style="text-align: center; width: 58px;">8.7</td>
+<td style="text-align: center; width: 57px;">47</td>
+<td style="text-align: center; width: 57px;">64</td>
+<td style="text-align: center; width: 57px;">59</td>
+<td style="text-align: center; width: 57px;">52</td>
+<td style="text-align: center; width: 59px;">6.8</td>
+<td style="text-align: center; width: 59px;">8.3</td>
+<td style="text-align: center; width: 60px;">280</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Morne's+Armor"><img src="/file/Dark-Souls-3/morne's_armor-icon.png" alt width="64" height="100">Morne's Armor</a></td>
+<td style="text-align: center; width: 58px;">17.4</td>
+<td style="text-align: center; width: 58px;">14.3</td>
+<td style="text-align: center; width: 58px;">17.4</td>
+<td style="text-align: center; width: 58px;">16.6</td>
+<td style="text-align: center; width: 58px;">13.9</td>
+<td style="text-align: center; width: 58px;">13.6</td>
+<td style="text-align: center; width: 58px;">13.3</td>
+<td style="text-align: center; width: 58px;">9.3</td>
+<td style="text-align: center; width: 57px;">67</td>
+<td style="text-align: center; width: 57px;">39</td>
+<td style="text-align: center; width: 57px;">60</td>
+<td style="text-align: center; width: 57px;">37</td>
+<td style="text-align: center; width: 59px;">20.6</td>
+<td style="text-align: center; width: 59px;">15.5</td> 
+<td style="text-align: center; width: 60px;">450</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Northern+Armor"><img src="/file/Dark-Souls-3/northern_armor-icon.png" alt width="80">Northern Armor</a></td>
+<td style="text-align: center; width: 58px;">12.6</td>
+<td style="text-align: center; width: 58px;">12.6</td>
+<td style="text-align: center; width: 58px;">12.1</td>
+<td style="text-align: center; width: 58px;">11.6</td>
+<td style="text-align: center; width: 58px;">7.7</td>
+<td style="text-align: center; width: 58px;">11.1</td>
+<td style="text-align: center; width: 58px;">4.4</td>
+<td style="text-align: center; width: 58px;">6.8</td>
+<td style="text-align: center; width: 57px;">60</td>
+<td style="text-align: center; width: 57px;">38</td>
+<td style="text-align: center; width: 57px;">64</td>
+<td style="text-align: center; width: 57px;">27</td>
+<td style="text-align: center; width: 59px;">10.7</td>
+<td style="text-align: center; width: 59px;">10.6</td>
+<td style="text-align: center; width: 60px;">370</td>
+</tr>
+<tr>
+<td style="width: 344px;"><img src="/file/Dark-Souls-3/pyromancer_garb-icon.png" alt width="64" height="100"><a class="wiki_link" href="/Pyromancer+Garb">Pyromancer Garb</a></td>
+<td style="text-align: center; width: 58px;">4.4</td>
+<td style="text-align: center; width: 58px;">3.7</td>
+<td style="text-align: center; width: 58px;">3.7</td>
+<td style="text-align: center; width: 58px;">3.7</td>
+<td style="text-align: center; width: 58px;">12.0</td>
+<td style="text-align: center; width: 58px;">13.1</td>
+<td style="text-align: center; width: 58px;">12.0</td>
+<td style="text-align: center; width: 58px;">14.1</td>
+<td style="text-align: center; width: 57px;">22</td>
+<td style="text-align: center; width: 57px;">50</td>
+<td style="text-align: center; width: 57px;">43</td>
+<td style="text-align: center; width: 57px;">74</td>
+<td style="text-align: center; width: 59px;">0.9</td>
+<td style="text-align: center; width: 59px;">4.2</td>
+<td style="text-align: center; width: 60px;">230</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Lothric+Knight+Armor"><img src="/file/Dark-Souls-3/lothric_knight_armor-icon.png" alt width="80" height="101">Lothric Knight Armor</a></td>
+<td style="text-align: center; width: 58px;">16.0</td>
+<td style="text-align: center; width: 58px;">12.4</td>
+<td style="text-align: center; width: 58px;">18.4</td>
+<td style="text-align: center; width: 58px;">15.3</td>
+<td style="text-align: center; width: 58px;">12.6</td>
+<td style="text-align: center; width: 58px;">13.8</td>
+<td style="text-align: center; width: 58px;">10.2</td>
+<td style="text-align: center; width: 58px;">11.9</td>
+<td style="text-align: center; width: 57px;">75</td>
+<td style="text-align: center; width: 57px;">43</td>
+<td style="text-align: center; width: 57px;">58</td>
+<td style="text-align: center; width: 57px;">34</td>
+<td style="text-align: center; width: 59px;">20.8</td>
+<td style="text-align: center; width: 59px;">15.0</td>
+<td style="text-align: center; width: 60px;">430</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Master's+Attire"><img src="/file/Dark-Souls-3/masters_attire-icon.png" alt width="64">Master's Attire</a></td>
+<td style="text-align: center; width: 58px;">2.7</td>
+<td style="text-align: center; width: 58px;">2.7</td>
+<td style="text-align: center; width: 58px;">2.7</td>
+<td style="text-align: center; width: 58px;">2.1</td>
+<td style="text-align: center; width: 58px;">9.1</td>
+<td style="text-align: center; width: 58px;">7.6</td>
+<td style="text-align: center; width: 58px;">8.4</td>
+<td style="text-align: center; width: 58px;">9.1</td>
+<td style="text-align: center; width: 57px;">37</td>
+<td style="text-align: center; width: 57px;">62</td>
+<td style="text-align: center; width: 57px;">22</td>
+<td style="text-align: center; width: 57px;">74</td>
+<td style="text-align: center; width: 59px;">0.0</td>
+<td style="text-align: center; width: 59px;">2.0</td>
+<td style="text-align: center; width: 60px;">100</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Assassin+Armor"><img src="/file/Dark-Souls-3/assassin_armor-icon.png" alt width="80" height="100">Assassin Armor</a></td>
+<td style="text-align: center; width: 58px;">8.6</td>
+<td style="text-align: center; width: 58px;">10.0</td>
+<td style="text-align: center; width: 58px;">8.6</td>
+<td style="text-align: center; width: 58px;">9.3</td>
+<td style="text-align: center; width: 58px;">10.4</td>
+<td style="text-align: center; width: 58px;">11.4</td>
+<td style="text-align: center; width: 58px;">10.4</td>
+<td style="text-align: center; width: 58px;">9.0</td>
+<td style="text-align: center; width: 57px;">40</td>
+<td style="text-align: center; width: 57px;">62</td>
+<td style="text-align: center; width: 57px;">47</td>
+<td style="text-align: center; width: 57px;">52</td>
+<td style="text-align: center; width: 59px;">4.8</td>
+<td style="text-align: center; width: 59px;">6.9</td>
+<td style="text-align: center; width: 60px;">270</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Worker+Garb"><img src="/file/Dark-Souls-3/worker_garb-icon.png" alt width="64" height="100">Worker Garb</a></td>
+<td style="text-align: center; width: 58px;">4.4</td>
+<td style="text-align: center; width: 58px;">6.8</td>
+<td style="text-align: center; width: 58px;">5.5</td>
+<td style="text-align: center; width: 58px;">5.5</td>
+<td style="text-align: center; width: 58px;">6.6</td>
+<td style="text-align: center; width: 58px;">5.2</td>
+<td style="text-align: center; width: 58px;">5.2</td>
+<td style="text-align: center; width: 58px;">10.9</td>
+<td style="text-align: center; width: 57px;">34</td>
+<td style="text-align: center; width: 57px;">68</td>
+<td style="text-align: center; width: 57px;">43</td>
+<td style="text-align: center; width: 57px;">60</td>
+<td style="text-align: center; width: 59px;">2.3</td>
+<td style="text-align: center; width: 59px;">4.2</td>
+<td style="text-align: center; width: 60px;">230</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Black+Hand+Armor"><img src="/file/Dark-Souls-3/black_hand_armor-icon.png" alt width="64" height="100">Black Hand Armor</a></td>
+<td style="text-align: center; width: 58px;">9.0</td>
+<td style="text-align: center; width: 58px;">8.1</td>
+<td style="text-align: center; width: 58px;">11.5</td>
+<td style="text-align: center; width: 58px;">9.7</td>
+<td style="text-align: center; width: 58px;">12.6</td>
+<td style="text-align: center; width: 58px;">12.8</td>
+<td style="text-align: center; width: 58px;">10.4</td>
+<td style="text-align: center; width: 58px;">9.0</td>
+<td style="text-align: center; width: 57px;">46</td>
+<td style="text-align: center; width: 57px;">67</td>
+<td style="text-align: center; width: 57px;">51</td>
+<td style="text-align: center; width: 57px;">58</td>
+<td style="text-align: center; width: 59px;">4.9</td>
+<td style="text-align: center; width: 59px;">7.8</td>
+<td style="text-align: center; width: 60px;">280</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Herald+Armor"><img src="/file/Dark-Souls-3/herald_armor-icon.png" alt width="64" height="100">Herald Armor</a></td>
+<td style="text-align: center; width: 58px;">12.4</td>
+<td style="text-align: center; width: 58px;">8.0</td>
+<td style="text-align: center; width: 58px;">12.9</td>
+<td style="text-align: center; width: 58px;">11.9</td>
+<td style="text-align: center; width: 58px;">9.2</td>
+<td style="text-align: center; width: 58px;">8.4</td>
+<td style="text-align: center; width: 58px;">3.8</td>
+<td style="text-align: center; width: 58px;">8.4</td>
+<td style="text-align: center; width: 57px;">52</td>
+<td style="text-align: center; width: 57px;">30</td>
+<td style="text-align: center; width: 57px;">36</td>
+<td style="text-align: center; width: 57px;">19</td>
+<td style="text-align: center; width: 59px;">9.5</td>
+<td style="text-align: center; width: 59px;">8.6</td>
+<td style="text-align: center; width: 60px;">350</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" title="Robe of Prayer" href="/Robe+of+Prayer"><img src="/file/Dark-Souls-3/robe_of_prayer-icon.png" alt width="64" height="100">Robe of Prayer</a></td>
+<td style="text-align: center; width: 58px;">3.6</td>
+<td style="text-align: center; width: 58px;">3.2</td>
+<td style="text-align: center; width: 58px;">3.6</td>
+<td style="text-align: center; width: 58px;">3.2</td>
+<td style="text-align: center; width: 58px;">13.5</td>
+<td style="text-align: center; width: 58px;">13.1</td>
+<td style="text-align: center; width: 58px;">13.1</td>
+<td style="text-align: center; width: 58px;">14.6</td>
+<td style="text-align: center; width: 57px;">13</td>
+<td style="text-align: center; width: 57px;">61</td>
+<td style="text-align: center; width: 57px;">24</td>
+<td style="text-align: center; width: 57px;">89</td>
+<td style="text-align: center; width: 59px;">1.3</td>
+<td style="text-align: center; width: 59px;">3.4</td>
+<td style="text-align: center; width: 60px;">220</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" title="Fallen Knight Armor" href="/Fallen+Knight+Armor"><img src="/file/Dark-Souls-3/fallen_knight_armor-icon.png" alt width="64" height="100">Fallen Knight Armor</a></td>
+<td style="text-align: center; width: 58px;">12.7</td>
+<td style="text-align: center; width: 58px;">12.2</td>
+<td style="text-align: center; width: 58px;">10.0</td>
+<td style="text-align: center; width: 58px;">11.1</td>
+<td style="text-align: center; width: 58px;">8.3</td>
+<td style="text-align: center; width: 58px;">12.5</td>
+<td style="text-align: center; width: 58px;">10.4</td>
+<td style="text-align: center; width: 58px;">9.0</td>
+<td style="text-align: center; width: 57px;">43</td>
+<td style="text-align: center; width: 57px;">28</td>
+<td style="text-align: center; width: 57px;">39</td>
+<td style="text-align: center; width: 57px;">22</td>
+<td style="text-align: center; width: 59px;">8.7</td>
+<td style="text-align: center; width: 59px;">9.2</td>
+<td style="text-align: center; width: 60px;">360</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Armor+of+the+Sun"><img src="/file/Dark-Souls-3/armor_of_the_sun.png" alt width="64">Armor of the Sun</a></td>
+<td style="text-align: center; width: 58px;">11.2</td>
+<td style="text-align: center; width: 58px;">8.3</td>
+<td style="text-align: center; width: 58px;">10.9</td>
+<td style="text-align: center; width: 58px;">11.2</td>
+<td style="text-align: center; width: 58px;">10.5</td>
+<td style="text-align: center; width: 58px;">10.5</td>
+<td style="text-align: center; width: 58px;">9.8</td>
+<td style="text-align: center; width: 58px;">10.5</td>
+<td style="text-align: center; width: 57px;">37</td>
+<td style="text-align: center; width: 57px;">28</td>
+<td style="text-align: center; width: 57px;">31</td>
+<td style="text-align: center; width: 57px;">26</td>
+<td style="text-align: center; width: 59px;">10.3</td>
+<td style="text-align: center; width: 59px;">8.6</td>
+<td style="text-align: center; width: 60px;">350</td>
+</tr>
+<tr>
+<td style="width: 344px;"><img src="/file/Dark-Souls-3/drakeblood_armor-icon.png" alt width="64" height="100"><a class="wiki_link" href="/Drakeblood+Armor">Drakeblood Armor</a></td>
+<td style="text-align: center; width: 58px;">13.3</td>
+<td style="text-align: center; width: 58px;">13.0</td>
+<td style="text-align: center; width: 58px;">14.0</td>
+<td style="text-align: center; width: 58px;">12.7</td>
+<td style="text-align: center; width: 58px;">13.0</td>
+<td style="text-align: center; width: 58px;">12.1</td>
+<td style="text-align: center; width: 58px;">11.1</td>
+<td style="text-align: center; width: 58px;">11.1</td>
+<td style="text-align: center; width: 57px;">78</td>
+<td style="text-align: center; width: 57px;">43</td>
+<td style="text-align: center; width: 57px;">46</td>
+<td style="text-align: center; width: 57px;">33</td>
+<td style="text-align: center; width: 59px;">14.6</td>
+<td style="text-align: center; width: 59px;">14.4</td>
+<td style="text-align: center; width: 60px;">410</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Mirrah+Vest"><img src="/file/Dark-Souls-3/mirrah_vest-icon.png" alt width="64" height="100">Mirrah Vest</a></td>
+<td style="text-align: center; width: 58px;">10.5</td>
+<td style="text-align: center; width: 58px;">10.5</td>
+<td style="text-align: center; width: 58px;">8.2</td>
+<td style="text-align: center; width: 58px;">8.2</td>
+<td style="text-align: center; width: 58px;">10.6</td>
+<td style="text-align: center; width: 58px;">9.9</td>
+<td style="text-align: center; width: 58px;">12.8</td>
+<td style="text-align: center; width: 58px;">9.9</td>
+<td style="text-align: center; width: 57px;">54</td>
+<td style="text-align: center; width: 57px;">64</td>
+<td style="text-align: center; width: 57px;">54</td>
+<td style="text-align: center; width: 57px;">60</td>
+<td style="text-align: center; width: 59px;">4.2</td>
+<td style="text-align: center; width: 59px;">7.0</td>
+<td style="text-align: center; width: 60px;">270</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Brigand+Armor"><img src="/file/Dark-Souls-3/brigand_armor-icon.png" alt width="64" height="100">Brigand Armor</a></td>
+<td style="text-align: center; width: 58px;">9.0</td>
+<td style="text-align: center; width: 58px;">8.1</td>
+<td style="text-align: center; width: 58px;">9.0</td>
+<td style="text-align: center; width: 58px;">9.0</td>
+<td style="text-align: center; width: 58px;">5.9</td>
+<td style="text-align: center; width: 58px;">7.3</td>
+<td style="text-align: center; width: 58px;">8.2</td>
+<td style="text-align: center; width: 58px;">5.9</td>
+<td style="text-align: center; width: 57px;">37</td>
+<td style="text-align: center; width: 57px;">59</td>
+<td style="text-align: center; width: 57px;">57</td>
+<td style="text-align: center; width: 57px;">37</td>
+<td style="text-align: center; width: 59px;">2.9</td>
+<td style="text-align: center; width: 59px;">4.8</td>
+<td style="text-align: center; width: 60px;">250</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Undead+Legion+Armor"><img src="/file/Dark-Souls-3/undead_legion_armor-icon.png" alt width="64" height="100">Undead Legion Armor</a></td>
+<td style="text-align: center; width: 58px;">10.4</td>
+<td style="text-align: center; width: 58px;">10.4</td>
+<td style="text-align: center; width: 58px;">5.9</td>
+<td style="text-align: center; width: 58px;">9.0</td>
+<td style="text-align: center; width: 58px;">12.6</td>
+<td style="text-align: center; width: 58px;">13.0</td>
+<td style="text-align: center; width: 58px;">13.2</td>
+<td style="text-align: center; width: 58px;">10.4</td>
+<td style="text-align: center; width: 57px;">39</td>
+<td style="text-align: center; width: 57px;">51</td>
+<td style="text-align: center; width: 57px;">65</td>
+<td style="text-align: center; width: 57px;">42</td>
+<td style="text-align: center; width: 59px;">4.9</td>
+<td style="text-align: center; width: 59px;">7.6</td>
+<td style="text-align: center; width: 60px;">280</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Nameless+Knight+Armor"><img src="/file/Dark-Souls-3/nameless_knight_armor-icon.png" alt width="64" height="100">Nameless Knight Armor</a></td>
+<td style="text-align: center; width: 58px;">11.7</td>
+<td style="text-align: center; width: 58px;">10.0</td>
+<td style="text-align: center; width: 58px;">12.7</td>
+<td style="text-align: center; width: 58px;">11.1</td>
+<td style="text-align: center; width: 58px;">7.6</td>
+<td style="text-align: center; width: 58px;">11.0</td>
+<td style="text-align: center; width: 58px;">8.4</td>
+<td style="text-align: center; width: 58px;">7.6</td>
+<td style="text-align: center; width: 57px;">61</td>
+<td style="text-align: center; width: 57px;">38</td>
+<td style="text-align: center; width: 57px;">35</td>
+<td style="text-align: center; width: 57px;">21</td>
+<td style="text-align: center; width: 59px;">8.7</td>
+<td style="text-align: center; width: 59px;">9.3</td>
+<td style="text-align: center; width: 60px;">360</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Grave+Warden+Robe"><img src="/file/Dark-Souls-3/grave_warden_robe-icon.png" alt width="64" height="100">Grave Warden Robe</a></td>
+<td style="text-align: center; width: 58px;">4.1</td>
+<td style="text-align: center; width: 58px;">3.1</td>
+<td style="text-align: center; width: 58px;">8.1</td>
+<td style="text-align: center; width: 58px;">4.8</td>
+<td style="text-align: center; width: 58px;">9.0</td>
+<td style="text-align: center; width: 58px;">9.0</td>
+<td style="text-align: center; width: 58px;">11.1</td>
+<td style="text-align: center; width: 58px;">3.6</td>
+<td style="text-align: center; width: 57px;">63</td>
+<td style="text-align: center; width: 57px;">59</td>
+<td style="text-align: center; width: 57px;">13</td>
+<td style="text-align: center; width: 57px;">51</td>
+<td style="text-align: center; width: 59px;">1.0</td>
+<td style="text-align: center; width: 59px;">3.6</td>
+<td style="text-align: center; width: 60px;">220</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Maiden+Robe"><img src="/file/Dark-Souls-3/maiden_robe-icon.png" alt width="64" height="100">Maiden Robe</a></td>
+<td style="text-align: center; width: 58px;">3.5</td>
+<td style="text-align: center; width: 58px;">4.1</td>
+<td style="text-align: center; width: 58px;">3.5</td>
+<td style="text-align: center; width: 58px;">3.1</td>
+<td style="text-align: center; width: 58px;">13.7</td>
+<td style="text-align: center; width: 58px;">12.8</td>
+<td style="text-align: center; width: 58px;">13.0</td>
+<td style="text-align: center; width: 58px;">13.7</td>
+<td style="text-align: center; width: 57px;">19</td>
+<td style="text-align: center; width: 57px;">38</td>
+<td style="text-align: center; width: 57px;">30</td>
+<td style="text-align: center; width: 57px;">75</td>
+<td style="text-align: center; width: 59px;">0.7</td>
+<td style="text-align: center; width: 59px;">3.5</td>
+<td style="text-align: center; width: 60px;">220</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Deacon+Robe"><img src="/file/Dark-Souls-3/deacon_robe-icon.png" alt width="64" height="100">Deacon Robe</a></td>
+<td style="text-align: center; width: 58px;">3.6</td>
+<td style="text-align: center; width: 58px;">3.6</td>
+<td style="text-align: center; width: 58px;">4.4</td>
+<td style="text-align: center; width: 58px;">3.6</td>
+<td style="text-align: center; width: 58px;">12.5</td>
+<td style="text-align: center; width: 58px;">12.7</td>
+<td style="text-align: center; width: 58px;">11.6</td>
+<td style="text-align: center; width: 58px;">13.2</td>
+<td style="text-align: center; width: 57px;">19</td>
+<td style="text-align: center; width: 57px;">40</td>
+<td style="text-align: center; width: 57px;">33</td>
+<td style="text-align: center; width: 57px;">79</td>
+<td style="text-align: center; width: 59px;">1.0</td>
+<td style="text-align: center; width: 59px;">3.5</td>
+<td style="text-align: center; width: 60px;">220</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Catarina+Armor"><img src="/file/Dark-Souls-3/catarina_armor-icon.png" alt width="64" height="100">Catarina Armor</a></td>
+<td style="text-align: center; width: 58px;">14.7</td>
+<td style="text-align: center; width: 58px;">12.8</td>
+<td style="text-align: center; width: 58px;">15.4</td>
+<td style="text-align: center; width: 58px;">14.1</td>
+<td style="text-align: center; width: 58px;">11.4</td>
+<td style="text-align: center; width: 58px;">12.4</td>
+<td style="text-align: center; width: 58px;">14.6</td>
+<td style="text-align: center; width: 58px;">13.1</td>
+<td style="text-align: center; width: 57px;">74</td>
+<td style="text-align: center; width: 57px;">57</td>
+<td style="text-align: center; width: 57px;">57</td>
+<td style="text-align: center; width: 57px;">33</td>
+<td style="text-align: center; width: 59px;">20.6</td>
+<td style="text-align: center; width: 59px;">17.9</td>
+<td style="text-align: center; width: 60px;">460</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Black+Leather+Armor"><img src="/file/Dark-Souls-3/black_leather_armor-icon.png" alt width="64" height="100">Black Leather Armor</a></td>
+<td style="text-align: center; width: 58px;">8.7</td>
+<td style="text-align: center; width: 58px;">7.8</td>
+<td style="text-align: center; width: 58px;">9.4</td>
+<td style="text-align: center; width: 58px;">6.9</td>
+<td style="text-align: center; width: 58px;">8.6</td>
+<td style="text-align: center; width: 58px;">7.8</td>
+<td style="text-align: center; width: 58px;">10.4</td>
+<td style="text-align: center; width: 58px;">8.2</td>
+<td style="text-align: center; width: 57px;">46</td>
+<td style="text-align: center; width: 57px;">65</td>
+<td style="text-align: center; width: 57px;">55</td>
+<td style="text-align: center; width: 57px;">46</td>
+<td style="text-align: center; width: 59px;">5.2</td>
+<td style="text-align: center; width: 59px;">5.9</td>
+<td style="text-align: center; width: 60px;">260</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Fire+Keeper+Robe"><img src="/file/Dark-Souls-3/fire_keeper_robe-icon.png" alt width="64" height="100">Fire Keeper Robe</a></td>
+<td style="text-align: center; width: 58px;">5.7</td>
+<td style="text-align: center; width: 58px;">7.1</td>
+<td style="text-align: center; width: 58px;">7.1</td>
+<td style="text-align: center; width: 58px;">8.0</td>
+<td style="text-align: center; width: 58px;">7.1</td>
+<td style="text-align: center; width: 58px;">11.9</td>
+<td style="text-align: center; width: 58px;">8.8</td>
+<td style="text-align: center; width: 58px;">12.4</td>
+<td style="text-align: center; width: 57px;">36</td>
+<td style="text-align: center; width: 57px;">54</td>
+<td style="text-align: center; width: 57px;">49</td>
+<td style="text-align: center; width: 57px;">42</td>
+<td style="text-align: center; width: 59px;">1.9</td>
+<td style="text-align: center; width: 59px;">5.1</td>
+<td style="text-align: center; width: 60px;">250</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Sorcerer+Robe"><img src="/file/Dark-Souls-3/sorcerer_robe-icon.png" alt width="64" height="100">Sorcerer Robe</a></td>
+<td style="text-align: center; width: 58px;">4.5</td>
+<td style="text-align: center; width: 58px;">4.5</td>
+<td style="text-align: center; width: 58px;">4.5</td>
+<td style="text-align: center; width: 58px;">3.8</td>
+<td style="text-align: center; width: 58px;">13.1</td>
+<td style="text-align: center; width: 58px;">12.4</td>
+<td style="text-align: center; width: 58px;">12.6</td>
+<td style="text-align: center; width: 58px;">13.1</td>
+<td style="text-align: center; width: 57px;">25</td>
+<td style="text-align: center; width: 57px;">40</td>
+<td style="text-align: center; width: 57px;">33</td>
+<td style="text-align: center; width: 57px;">71</td>
+<td style="text-align: center; width: 59px;">1.7</td>
+<td style="text-align: center; width: 59px;">4.1</td>
+<td style="text-align: center; width: 60px;">230</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Drang+Armor"><img src="/file/Dark-Souls-3/drang_armor-icon.png" alt width="64" height="100">Drang Armor</a></td>
+<td style="text-align: center; width: 58px;">9.3</td>
+<td style="text-align: center; width: 58px;">8.6</td>
+<td style="text-align: center; width: 58px;">7.7</td>
+<td style="text-align: center; width: 58px;">5.5</td>
+<td style="text-align: center; width: 58px;">9.7</td>
+<td style="text-align: center; width: 58px;">7.5</td>
+<td style="text-align: center; width: 58px;">10.9</td>
+<td style="text-align: center; width: 58px;">9.7</td>
+<td style="text-align: center; width: 57px;">42</td>
+<td style="text-align: center; width: 57px;">62</td>
+<td style="text-align: center; width: 57px;">66</td>
+<td style="text-align: center; width: 57px;">45</td>
+<td style="text-align: center; width: 59px;">0.8</td>
+<td style="text-align: center; width: 59px;">5.1</td>
+<td style="text-align: center; width: 60px;">250</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Eastern+Armor"><img src="/file/Dark-Souls-3/eastern_armor-icon.png" alt width="64" height="100">Eastern Armor</a></td>
+<td style="text-align: center; width: 58px;">12.6</td>
+<td style="text-align: center; width: 58px;">9.3</td>
+<td style="text-align: center; width: 58px;">16.9</td>
+<td style="text-align: center; width: 58px;">11.5</td>
+<td style="text-align: center; width: 58px;">7.6</td>
+<td style="text-align: center; width: 58px;">11.5</td>
+<td style="text-align: center; width: 58px;">5.3</td>
+<td style="text-align: center; width: 58px;">6.7</td>
+<td style="text-align: center; width: 57px;">87</td>
+<td style="text-align: center; width: 57px;">37</td>
+<td style="text-align: center; width: 57px;">43</td>
+<td style="text-align: center; width: 57px;">25</td>
+<td style="text-align: center; width: 59px;">12.6</td>
+<td style="text-align: center; width: 59px;">10.8</td>
+<td style="text-align: center; width: 60px;">370</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Black+Iron+Armor"><img src="/file/Dark-Souls-3/black_iron_armor-icon.png" alt width="64" height="100">Black Iron Armor</a></td>
+<td style="text-align: center; width: 58px;">18.1</td>
+<td style="text-align: center; width: 58px;">12.2</td>
+<td style="text-align: center; width: 58px;">18.1</td>
+<td style="text-align: center; width: 58px;">18.1</td>
+<td style="text-align: center; width: 58px;">12.2</td>
+<td style="text-align: center; width: 58px;">15.8</td>
+<td style="text-align: center; width: 58px;">11.5</td>
+<td style="text-align: center; width: 58px;">12.2</td>
+<td style="text-align: center; width: 57px;">65</td>
+<td style="text-align: center; width: 57px;">51</td>
+<td style="text-align: center; width: 57px;">57</td>
+<td style="text-align: center; width: 57px;">35</td>
+<td style="text-align: center; width: 59px;">20.9</td>
+<td style="text-align: center; width: 59px;">15.8</td>
+<td style="text-align: center; width: 60px;">460</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Executioner+Armor"><img src="/file/Dark-Souls-3/executioner_armor-icon.png" alt width="64" height="100">Executioner Armor</a></td>
+<td style="text-align: center; width: 58px;">18.3</td>
+<td style="text-align: center; width: 58px;">12.4</td>
+<td style="text-align: center; width: 58px;">17.5</td>
+<td style="text-align: center; width: 58px;">18.3</td>
+<td style="text-align: center; width: 58px;">13.5</td>
+<td style="text-align: center; width: 58px;">14.5</td>
+<td style="text-align: center; width: 58px;">11.4</td>
+<td style="text-align: center; width: 58px;">13.3</td>
+<td style="text-align: center; width: 57px;">65</td>
+<td style="text-align: center; width: 57px;">58</td>
+<td style="text-align: center; width: 57px;">61</td>
+<td style="text-align: center; width: 57px;">42</td>
+<td style="text-align: center; width: 59px;">21.4</td>
+<td style="text-align: center; width: 59px;">16.0</td>
+<td style="text-align: center; width: 60px;">460</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Xanthous+Overcoat"><img src="/file/Dark-Souls-3/xanthous_overcoat-icon.png" alt width="64" height="100">Xanthous Overcoat</a></td>
+<td style="text-align: center; width: 58px;">10.1</td>
+<td style="text-align: center; width: 58px;">6.9</td>
+<td style="text-align: center; width: 58px;">10.7</td>
+<td style="text-align: center; width: 58px;">9.4</td>
+<td style="text-align: center; width: 58px;">11.7</td>
+<td style="text-align: center; width: 58px;">5.5</td>
+<td style="text-align: center; width: 58px;">10.0</td>
+<td style="text-align: center; width: 58px;">11.7</td>
+<td style="text-align: center; width: 57px;">39</td>
+<td style="text-align: center; width: 57px;">46</td>
+<td style="text-align: center; width: 57px;">33</td>
+<td style="text-align: center; width: 57px;">22</td>
+<td style="text-align: center; width: 59px;">7.7</td>
+<td style="text-align: center; width: 59px;">8.6</td>
+<td style="text-align: center; width: 60px;">350</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Court+Sorcerer+Robe"><img src="/file/Dark-Souls-3/court_sorceror_robe-icon.png" alt width="64" height="100">Court Sorcerer Robe</a></td>
+<td style="text-align: center; width: 58px;">3.6</td>
+<td style="text-align: center; width: 58px;">4.4</td>
+<td style="text-align: center; width: 58px;">3.6</td>
+<td style="text-align: center; width: 58px;">4.4</td>
+<td style="text-align: center; width: 58px;">12.3</td>
+<td style="text-align: center; width: 58px;">11.6</td>
+<td style="text-align: center; width: 58px;">13.5</td>
+<td style="text-align: center; width: 58px;">13.2</td>
+<td style="text-align: center; width: 57px;">29</td>
+<td style="text-align: center; width: 57px;">46</td>
+<td style="text-align: center; width: 57px;">32</td>
+<td style="text-align: center; width: 57px;">74</td>
+<td style="text-align: center; width: 59px;">1.6</td>
+<td style="text-align: center; width: 59px;">4.2</td>
+<td style="text-align: center; width: 60px;">230</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Brass+Armor"><img src="/file/Dark-Souls-3/brass_armor-icon.png" alt width="64" height="100">Brass Armor</a></td>
+<td style="text-align: center; width: 58px;">13.3</td>
+<td style="text-align: center; width: 58px;">10.7</td>
+<td style="text-align: center; width: 58px;">13.3</td>
+<td style="text-align: center; width: 58px;">11.8</td>
+<td style="text-align: center; width: 58px;">13.6</td>
+<td style="text-align: center; width: 58px;">10.0</td>
+<td style="text-align: center; width: 58px;">6.9</td>
+<td style="text-align: center; width: 58px;">10.0</td>
+<td style="text-align: center; width: 57px;">60</td>
+<td style="text-align: center; width: 57px;">33</td>
+<td style="text-align: center; width: 57px;">36</td>
+<td style="text-align: center; width: 57px;">27</td>
+<td style="text-align: center; width: 59px;">9.9</td>
+<td style="text-align: center; width: 59px;">10.5</td>
+<td style="text-align: center; width: 60px;">370</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Painting+Guardian+Gown"><img src="/file/Dark-Souls-3/painting_guardian_gown-icon.png" alt width="64" height="100">Painting Guardian Gown</a></td>
+<td style="text-align: center; width: 58px;">4.4</td>
+<td style="text-align: center; width: 58px;">3.1</td>
+<td style="text-align: center; width: 58px;">4.4</td>
+<td style="text-align: center; width: 58px;">4.4</td>
+<td style="text-align: center; width: 58px;">11.1</td>
+<td style="text-align: center; width: 58px;">4.4</td>
+<td style="text-align: center; width: 58px;">5.4</td>
+<td style="text-align: center; width: 58px;">4.4</td>
+<td style="text-align: center; width: 57px;">59</td>
+<td style="text-align: center; width: 57px;">71</td>
+<td style="text-align: center; width: 57px;">36</td>
+<td style="text-align: center; width: 57px;">60</td>
+<td style="text-align: center; width: 59px;">0.5</td>
+<td style="text-align: center; width: 59px;">3.5</td>
+<td style="text-align: center; width: 60px;">220</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Smough's+Armor"><img src="/file/Dark-Souls-3/smough's_armor-icon.png" alt width="64" height="100">Smough's Armor</a></td>
+<td style="text-align: center; width: 58px;">18.8</td>
+<td style="text-align: center; width: 58px;">19.2</td>
+<td style="text-align: center; width: 58px;">18.3</td>
+<td style="text-align: center; width: 58px;">16.0</td>
+<td style="text-align: center; width: 58px;">13.3</td>
+<td style="text-align: center; width: 58px;">13.0</td>
+<td style="text-align: center; width: 58px;">13.8</td>
+<td style="text-align: center; width: 58px;">13.1</td>
+<td style="text-align: center; width: 57px;">69</td>
+<td style="text-align: center; width: 57px;">69</td>
+<td style="text-align: center; width: 57px;">69</td>
+<td style="text-align: center; width: 57px;">62</td>
+<td style="text-align: center; width: 59px;">27.1</td>
+<td style="text-align: center; width: 59px;">23.0</td>
+<td style="text-align: center; width: 60px;">500</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Shadow&nbsp;Garb"><img src="/file/Dark-Souls-3/shadow_garb-icon.png" alt width="64" height="100">Shadow&nbsp;Garb</a></td>
+<td style="text-align: center; width: 58px;">6.8</td>
+<td style="text-align: center; width: 58px;">5.5</td>
+<td style="text-align: center; width: 58px;">4.4</td>
+<td style="text-align: center; width: 58px;">6.8</td>
+<td style="text-align: center; width: 58px;">4.2</td>
+<td style="text-align: center; width: 58px;">5.2</td>
+<td style="text-align: center; width: 58px;">6.6</td>
+<td style="text-align: center; width: 58px;">4.2</td>
+<td style="text-align: center; width: 57px;">27</td>
+<td style="text-align: center; width: 57px;">40</td>
+<td style="text-align: center; width: 57px;">38</td>
+<td style="text-align: center; width: 57px;">34</td>
+<td style="text-align: center; width: 59px;">2.2</td>
+<td style="text-align: center; width: 59px;">3.7</td>
+<td style="text-align: center; width: 60px;">220</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Winged+Knight+Armor"><img src="/file/Dark-Souls-3/winged_knight_armor-icon.png" alt width="64" height="100">Winged Knight Armor</a></td>
+<td style="text-align: center; width: 58px;">17.5</td>
+<td style="text-align: center; width: 58px;">14.4</td>
+<td style="text-align: center; width: 58px;">17.5</td>
+<td style="text-align: center; width: 58px;">16.8</td>
+<td style="text-align: center; width: 58px;">14.3</td>
+<td style="text-align: center; width: 58px;">14.0</td>
+<td style="text-align: center; width: 58px;">15.0</td>
+<td style="text-align: center; width: 58px;">16.7</td>
+<td style="text-align: center; width: 57px;">73</td>
+<td style="text-align: center; width: 57px;">60</td>
+<td style="text-align: center; width: 57px;">68</td>
+<td style="text-align: center; width: 57px;">45</td>
+<td style="text-align: center; width: 59px;">24.9</td>
+<td style="text-align: center; width: 59px;">18.2</td>
+<td style="text-align: center; width: 60px;">480</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Cathedral+Knight+Armor"><img src="/file/Dark-Souls-3/cathedral_knight_armor-icon.png" alt width="64" height="100">Cathedral Knight Armor</a></td>
+<td style="text-align: center; width: 58px;">14.8</td>
+<td style="text-align: center; width: 58px;">14.8</td>
+<td style="text-align: center; width: 58px;">13.6</td>
+<td style="text-align: center; width: 58px;">15.7</td>
+<td style="text-align: center; width: 58px;">14.4</td>
+<td style="text-align: center; width: 58px;">13.3</td>
+<td style="text-align: center; width: 58px;">14.1</td>
+<td style="text-align: center; width: 58px;">12.2</td>
+<td style="text-align: center; width: 57px;">66</td>
+<td style="text-align: center; width: 57px;">62</td>
+<td style="text-align: center; width: 57px;">62</td>
+<td style="text-align: center; width: 57px;">47</td>
+<td style="text-align: center; width: 59px;">20.4</td>
+<td style="text-align: center; width: 59px;">17.8</td>
+<td style="text-align: center; width: 60px;">470</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Gundyr's+Armor"><img src="/file/Dark-Souls-3/gundyr's_armor-icon.png" alt width="64" height="100">Gundyr's Armor</a></td>
+<td style="text-align: center; width: 58px;">16.9</td>
+<td style="text-align: center; width: 58px;">14.1</td>
+<td style="text-align: center; width: 58px;">19.7</td>
+<td style="text-align: center; width: 58px;">16.2</td>
+<td style="text-align: center; width: 58px;">13.2</td>
+<td style="text-align: center; width: 58px;">13.7</td>
+<td style="text-align: center; width: 58px;">13.0</td>
+<td style="text-align: center; width: 58px;">13.2</td>
+<td style="text-align: center; width: 57px;">86</td>
+<td style="text-align: center; width: 57px;">62</td>
+<td style="text-align: center; width: 57px;">62</td>
+<td style="text-align: center; width: 57px;">62</td>
+<td style="text-align: center; width: 59px;">24.6</td>
+<td style="text-align: center; width: 59px;">17.2</td>
+<td style="text-align: center; width: 60px;">470</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Elite+Knight+Armor"><img src="/file/Dark-Souls-3/elite_knight_armor-icon.png" alt width="64" height="100">Elite Knight Armor</a></td>
+<td style="text-align: center; width: 58px;">12.1</td>
+<td style="text-align: center; width: 58px;">9.2</td>
+<td style="text-align: center; width: 58px;">12.1</td>
+<td style="text-align: center; width: 58px;">11.1</td>
+<td style="text-align: center; width: 58px;">9.2</td>
+<td style="text-align: center; width: 58px;">10.6</td>
+<td style="text-align: center; width: 58px;">6.8</td>
+<td style="text-align: center; width: 58px;">8.5</td>
+<td style="text-align: center; width: 57px;">46</td>
+<td style="text-align: center; width: 57px;">32</td>
+<td style="text-align: center; width: 57px;">33</td>
+<td style="text-align: center; width: 57px;">18</td>
+<td style="text-align: center; width: 59px;">8.8</td>
+<td style="text-align: center; width: 59px;">8.9</td>
+<td style="text-align: center; width: 60px;">350</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Dancer's+Armor"><img src="/file/Dark-Souls-3/dancer's_armor-icon.png" alt width="64" height="100">Dancer's Armor</a></td>
+<td style="text-align: center; width: 58px;">10.5</td>
+<td style="text-align: center; width: 58px;">7.4</td>
+<td style="text-align: center; width: 58px;">12.2</td>
+<td style="text-align: center; width: 58px;">11.7</td>
+<td style="text-align: center; width: 58px;">8.3</td>
+<td style="text-align: center; width: 58px;">6.0</td>
+<td style="text-align: center; width: 58px;">9.1</td>
+<td style="text-align: center; width: 58px;">9.8</td>
+<td style="text-align: center; width: 57px;">41</td>
+<td style="text-align: center; width: 57px;">33</td>
+<td style="text-align: center; width: 57px;">55</td>
+<td style="text-align: center; width: 57px;">22</td>
+<td style="text-align: center; width: 59px;">6.7</td>
+<td style="text-align: center; width: 59px;">7.3</td>
+<td style="text-align: center; width: 60px;">280</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Wolf+Knight+Armor"><img src="/file/Dark-Souls-3/wolf_knight_armor-icon.png" alt width="64" height="100">Wolf Knight Armor</a></td>
+<td style="text-align: center; width: 58px;">11.8</td>
+<td style="text-align: center; width: 58px;">10.1</td>
+<td style="text-align: center; width: 58px;">11.8</td>
+<td style="text-align: center; width: 58px;">11.8</td>
+<td style="text-align: center; width: 58px;">7.8</td>
+<td style="text-align: center; width: 58px;">11.2</td>
+<td style="text-align: center; width: 58px;">5.5</td>
+<td style="text-align: center; width: 58px;">10.0</td>
+<td style="text-align: center; width: 57px;">46</td>
+<td style="text-align: center; width: 57px;">32</td>
+<td style="text-align: center; width: 57px;">33</td>
+<td style="text-align: center; width: 57px;">33</td>
+<td style="text-align: center; width: 59px;">8.0</td>
+<td style="text-align: center; width: 59px;">9.0</td>
+<td style="text-align: center; width: 60px;">360</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Black+Knight+Armor"><img src="/file/Dark-Souls-3/black_knight_armor-icon.png" alt width="64" height="100">Black Knight Armor</a></td>
+<td style="text-align: center; width: 58px;">13.8</td>
+<td style="text-align: center; width: 58px;">11.7</td>
+<td style="text-align: center; width: 58px;">12.7</td>
+<td style="text-align: center; width: 58px;">12.6</td>
+<td style="text-align: center; width: 58px;">10.5</td>
+<td style="text-align: center; width: 58px;">13.7</td>
+<td style="text-align: center; width: 58px;">9.8</td>
+<td style="text-align: center; width: 58px;">11.5</td>
+<td style="text-align: center; width: 57px;">58</td>
+<td style="text-align: center; width: 57px;">42</td>
+<td style="text-align: center; width: 57px;">39</td>
+<td style="text-align: center; width: 57px;">39</td>
+<td style="text-align: center; width: 59px;">14</td>
+<td style="text-align: center; width: 59px;">13.9</td>
+<td style="text-align: center; width: 60px;">410</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Scholar's+Robe"><img src="/file/Dark-Souls-3/scholar's_robe-icon.png" alt width="64" height="100">Scholar's Robe</a></td>
+<td style="text-align: center; width: 58px;">6.9</td>
+<td style="text-align: center; width: 58px;">2.8</td>
+<td style="text-align: center; width: 58px;">4.5</td>
+<td style="text-align: center; width: 58px;">5.6</td>
+<td style="text-align: center; width: 58px;">13.3</td>
+<td style="text-align: center; width: 58px;">11.2</td>
+<td style="text-align: center; width: 58px;">12.8</td>
+<td style="text-align: center; width: 58px;">12.6</td>
+<td style="text-align: center; width: 57px;">36</td>
+<td style="text-align: center; width: 57px;">43</td>
+<td style="text-align: center; width: 57px;">39</td>
+<td style="text-align: center; width: 57px;">71</td>
+<td style="text-align: center; width: 59px;">3.6</td>
+<td style="text-align: center; width: 59px;">4.2</td>
+<td style="text-align: center; width: 60px;">230</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Outrider+Knight+Armor"><img src="/file/Dark-Souls-3/outrider_knight_armor-icon.png" alt width="64" height="100">Outrider Knight Armor</a></td>
+<td style="text-align: center; width: 58px;">14.4</td>
+<td style="text-align: center; width: 58px;">10.6</td>
+<td style="text-align: center; width: 58px;">13.8</td>
+<td style="text-align: center; width: 58px;">13.8</td>
+<td style="text-align: center; width: 58px;">9.7</td>
+<td style="text-align: center; width: 58px;">11.4</td>
+<td style="text-align: center; width: 58px;">9.7</td>
+<td style="text-align: center; width: 58px;">7.5</td>
+<td style="text-align: center; width: 57px;">50</td>
+<td style="text-align: center; width: 57px;">43</td>
+<td style="text-align: center; width: 57px;">91</td>
+<td style="text-align: center; width: 57px;">22</td>
+<td style="text-align: center; width: 59px;">12.5</td>
+<td style="text-align: center; width: 59px;">12.0</td>
+<td style="text-align: center; width: 60px;">380</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Dragonslayer+Armor"><img src="/file/Dark-Souls-3/dragonslayer_armor-icon.png" alt width="64" height="100">Dragonslayer Armor</a></td>
+<td style="text-align: center; width: 58px;">15.6</td>
+<td style="text-align: center; width: 58px;">12.7</td>
+<td style="text-align: center; width: 58px;">17.0</td>
+<td style="text-align: center; width: 58px;">17.0</td>
+<td style="text-align: center; width: 58px;">12.9</td>
+<td style="text-align: center; width: 58px;">13.8</td>
+<td style="text-align: center; width: 58px;">13.8</td>
+<td style="text-align: center; width: 58px;">10.7</td>
+<td style="text-align: center; width: 57px;">64</td>
+<td style="text-align: center; width: 57px;">40</td>
+<td style="text-align: center; width: 57px;">43</td>
+<td style="text-align: center; width: 57px;">36</td>
+<td style="text-align: center; width: 59px;">19.1</td>
+<td style="text-align: center; width: 59px;">13.8</td>
+<td style="text-align: center; width: 60px;">420</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Firelink+Armor"><img src="/file/Dark-Souls-3/firelink_armor-icon.png" alt width="64" height="100">Firelink Armor</a></td>
+<td style="text-align: center; width: 58px;">11.9</td>
+<td style="text-align: center; width: 58px;">8.0</td>
+<td style="text-align: center; width: 58px;">12.9</td>
+<td style="text-align: center; width: 58px;">10.2</td>
+<td style="text-align: center; width: 58px;">6.9</td>
+<td style="text-align: center; width: 58px;">10.7</td>
+<td style="text-align: center; width: 58px;">5.5</td>
+<td style="text-align: center; width: 58px;">5.5</td>
+<td style="text-align: center; width: 57px;">47</td>
+<td style="text-align: center; width: 57px;">30</td>
+<td style="text-align: center; width: 57px;">43</td>
+<td style="text-align: center; width: 57px;">19</td>
+<td style="text-align: center; width: 59px;">8.9</td>
+<td style="text-align: center; width: 59px;">8.6</td>
+<td style="text-align: center; width: 60px;">350</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Black+Dress"><img src="/file/Dark-Souls-3/black_dress-icon.png" alt>Black Dress</a></td>
+<td style="text-align: center; width: 58px;">7.7</td>
+<td style="text-align: center; width: 58px;">7.7</td>
+<td style="text-align: center; width: 58px;">10.0</td>
+<td style="text-align: center; width: 58px;">6.8</td>
+<td style="text-align: center; width: 58px;">9.7</td>
+<td style="text-align: center; width: 58px;">12.5</td>
+<td style="text-align: center; width: 58px;">10.9</td>
+<td style="text-align: center; width: 58px;">12.1</td>
+<td style="text-align: center; width: 57px;">40</td>
+<td style="text-align: center; width: 57px;">60</td>
+<td style="text-align: center; width: 57px;">47</td>
+<td style="text-align: center; width: 57px;">71</td>
+<td style="text-align: center; width: 59px;">5.6</td>
+<td style="text-align: center; width: 59px;">6.5</td>
+<td style="text-align: center; width: 60px;">270</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Embraced+Armor+of+Favor"><img src="/file/Dark-Souls-3/embraced_armor_of_favor-icon.png" alt width="64" height="100">Embraced Armor of Favor</a></td>
+<td style="text-align: center; width: 58px;">13.2</td>
+<td style="text-align: center; width: 58px;">12.1</td>
+<td style="text-align: center; width: 58px;">13.2</td>
+<td style="text-align: center; width: 58px;">13.7</td>
+<td style="text-align: center; width: 58px;">11.1</td>
+<td style="text-align: center; width: 58px;">11.6</td>
+<td style="text-align: center; width: 58px;">8.5</td>
+<td style="text-align: center; width: 58px;">11.6</td>
+<td style="text-align: center; width: 57px;">63</td>
+<td style="text-align: center; width: 57px;">46</td>
+<td style="text-align: center; width: 57px;">51</td>
+<td style="text-align: center; width: 57px;">35</td>
+<td style="text-align: center; width: 59px;">18.3</td>
+<td style="text-align: center; width: 59px;">12.8</td>
+<td style="text-align: center; width: 60px;">400</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Dragonscale+Armor"><img src="/file/Dark-Souls-3/dragonscale_armor-icon.png" alt width="64" height="100">Dragonscale Armor</a></td>
+<td style="text-align: center; width: 58px;">14.9</td>
+<td style="text-align: center; width: 58px;">12.7</td>
+<td style="text-align: center; width: 58px;">14.3</td>
+<td style="text-align: center; width: 58px;">12.2</td>
+<td style="text-align: center; width: 58px;">10.6</td>
+<td style="text-align: center; width: 58px;">13.7</td>
+<td style="text-align: center; width: 58px;">7.5</td>
+<td style="text-align: center; width: 58px;">10.6</td>
+<td style="text-align: center; width: 57px;">62</td>
+<td style="text-align: center; width: 57px;">43</td>
+<td style="text-align: center; width: 57px;">46</td>
+<td style="text-align: center; width: 57px;">28</td>
+<td style="text-align: center; width: 59px;">16.6</td>
+<td style="text-align: center; width: 59px;">12.4</td>
+<td style="text-align: center; width: 60px;">380</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Karla's+Coat"><img src="/file/Dark-Souls-3/karla's_coat-icon.png" alt width="64" height="100">Karla's Coat</a></td>
+<td style="text-align: center; width: 58px;">3.9</td>
+<td style="text-align: center; width: 58px;">3.9</td>
+<td style="text-align: center; width: 58px;">3.9</td>
+<td style="text-align: center; width: 58px;">2.9</td>
+<td style="text-align: center; width: 58px;">14.1</td>
+<td style="text-align: center; width: 58px;">13.3</td>
+<td style="text-align: center; width: 58px;">13.8</td>
+<td style="text-align: center; width: 58px;">13.8</td>
+<td style="text-align: center; width: 57px;">20</td>
+<td style="text-align: center; width: 57px;">35</td>
+<td style="text-align: center; width: 57px;">31</td>
+<td style="text-align: center; width: 57px;">53</td>
+<td style="text-align: center; width: 59px;">1.3</td>
+<td style="text-align: center; width: 59px;">3.6</td>
+<td style="text-align: center; width: 60px;">220</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Cornyx's+Garb"><img src="/file/Dark-Souls-3/cornyx's_garb-icon.png" alt width="64" height="100">Cornyx's Garb</a></td>
+<td style="text-align: center; width: 58px;">4.1</td>
+<td style="text-align: center; width: 58px;">4.1</td>
+<td style="text-align: center; width: 58px;">4.8</td>
+<td style="text-align: center; width: 58px;">3.5</td>
+<td style="text-align: center; width: 58px;">13.0</td>
+<td style="text-align: center; width: 58px;">13.7</td>
+<td style="text-align: center; width: 58px;">12.8</td>
+<td style="text-align: center; width: 58px;">13.2</td>
+<td style="text-align: center; width: 57px;">22</td>
+<td style="text-align: center; width: 57px;">40</td>
+<td style="text-align: center; width: 57px;">30</td>
+<td style="text-align: center; width: 57px;">88</td>
+<td style="text-align: center; width: 59px;">4.9</td>
+<td style="text-align: center; width: 59px;">4.1</td>
+<td style="text-align: center; width: 60px;">230</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Leonhard's+Garb"><img src="/file/Dark-Souls-3/leonhard's_garb-icon.png" alt width="64" height="100">Leonhard's Garb</a></td>
+<td style="text-align: center; width: 58px;">9.8</td>
+<td style="text-align: center; width: 58px;">9.8</td>
+<td style="text-align: center; width: 58px;">9.1</td>
+<td style="text-align: center; width: 58px;">9.8</td>
+<td style="text-align: center; width: 58px;">12.2</td>
+<td style="text-align: center; width: 58px;">12.7</td>
+<td style="text-align: center; width: 58px;">9.8</td>
+<td style="text-align: center; width: 58px;">8.3</td>
+<td style="text-align: center; width: 57px;">41</td>
+<td style="text-align: center; width: 57px;">55</td>
+<td style="text-align: center; width: 57px;">62</td>
+<td style="text-align: center; width: 57px;">55</td>
+<td style="text-align: center; width: 59px;">6.0</td>
+<td style="text-align: center; width: 59px;">6.9</td>
+<td style="text-align: center; width: 60px;">270</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Archdeacon+Holy+Garb"><img src="/file/Dark-Souls-3/archdeacon_holy_garb-icon.png" alt width="64" height="100">Archdeacon Holy Garb</a></td>
+<td style="text-align: center; width: 58px;">3.7</td>
+<td style="text-align: center; width: 58px;">6.8</td>
+<td style="text-align: center; width: 58px;">4.4</td>
+<td style="text-align: center; width: 58px;">4.4</td>
+<td style="text-align: center; width: 58px;">12.4</td>
+<td style="text-align: center; width: 58px;">11.5</td>
+<td style="text-align: center; width: 58px;">12.4</td>
+<td style="text-align: center; width: 58px;">13.7</td>
+<td style="text-align: center; width: 57px;">18</td>
+<td style="text-align: center; width: 57px;">39</td>
+<td style="text-align: center; width: 57px;">37</td>
+<td style="text-align: center; width: 57px;">83</td>
+<td style="text-align: center; width: 59px;">3.4</td>
+<td style="text-align: center; width: 59px;">4.2</td>
+<td style="text-align: center; width: 60px;">230</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Sunless+Armor"><img src="/file/Dark-Souls-3/sunless_armor-icon.png" alt width="64" height="100">Sunless Armor</a></td>
+<td style="text-align: center; width: 58px;">11.7</td>
+<td style="text-align: center; width: 58px;">9.1</td>
+<td style="text-align: center; width: 58px;">12.2</td>
+<td style="text-align: center; width: 58px;">11.7</td>
+<td style="text-align: center; width: 58px;">11.2</td>
+<td style="text-align: center; width: 58px;">9.8</td>
+<td style="text-align: center; width: 58px;">6.0</td>
+<td style="text-align: center; width: 58px;">11.7</td>
+<td style="text-align: center; width: 57px;">43</td>
+<td style="text-align: center; width: 57px;">25</td>
+<td style="text-align: center; width: 57px;">33</td>
+<td style="text-align: center; width: 57px;">37</td>
+<td style="text-align: center; width: 59px;">8.5</td>
+<td style="text-align: center; width: 59px;">9.2</td>
+<td style="text-align: center; width: 60px;">360</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Lorian's+Armor"><img src="/file/Dark-Souls-3/lorian's_armor-icon.png" alt width="64" height="100">Lorian's Armor</a></td>
+<td style="text-align: center; width: 58px;">16.6</td>
+<td style="text-align: center; width: 58px;">10.1</td>
+<td style="text-align: center; width: 58px;">16.6</td>
+<td style="text-align: center; width: 58px;">15.9</td>
+<td style="text-align: center; width: 58px;">13.3</td>
+<td style="text-align: center; width: 58px;">11.2</td>
+<td style="text-align: center; width: 58px;">11.2</td>
+<td style="text-align: center; width: 58px;">13.6</td>
+<td style="text-align: center; width: 57px;">67</td>
+<td style="text-align: center; width: 57px;">41</td>
+<td style="text-align: center; width: 57px;">61</td>
+<td style="text-align: center; width: 57px;">50</td>
+<td style="text-align: center; width: 59px;">18.4</td>
+<td style="text-align: center; width: 59px;">14.7</td>
+<td style="text-align: center; width: 60px;">420</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Jailer+Robe"><img src="/file/Dark-Souls-3/jailer_robe-icon.png" alt width="64" height="100">Jailer Robe</a></td>
+<td style="text-align: center; width: 58px;">8.2</td>
+<td style="text-align: center; width: 58px;">4.2</td>
+<td style="text-align: center; width: 58px;">8.2</td>
+<td style="text-align: center; width: 58px;">6.0</td>
+<td style="text-align: center; width: 58px;">13.5</td>
+<td style="text-align: center; width: 58px;">13.1</td>
+<td style="text-align: center; width: 58px;">11.4</td>
+<td style="text-align: center; width: 58px;">13.5</td>
+<td style="text-align: center; width: 57px;">24</td>
+<td style="text-align: center; width: 57px;">37</td>
+<td style="text-align: center; width: 57px;">32</td>
+<td style="text-align: center; width: 57px;">87</td>
+<td style="text-align: center; width: 59px;">2.0</td>
+<td style="text-align: center; width: 59px;">4.8</td>
+<td style="text-align: center; width: 60px;">230</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Sunset+Armor"><img src="/file/Dark-Souls-3/sunset_armor-icon.png" alt width="64" height="100">Sunset Armor</a></td>
+<td style="text-align: center; width: 58px;">13.4</td>
+<td style="text-align: center; width: 58px;">11.2</td>
+<td style="text-align: center; width: 58px;">13.6</td>
+<td style="text-align: center; width: 58px;">13.1</td>
+<td style="text-align: center; width: 58px;">9.1</td>
+<td style="text-align: center; width: 58px;">11.2</td>
+<td style="text-align: center; width: 58px;">8.3</td>
+<td style="text-align: center; width: 58px;">10.5</td>
+<td style="text-align: center; width: 57px;">63</td>
+<td style="text-align: center; width: 57px;">58</td>
+<td style="text-align: center; width: 57px;">39</td>
+<td style="text-align: center; width: 57px;">42</td>
+<td style="text-align: center; width: 59px;">14.7</td>
+<td style="text-align: center; width: 59px;">13.8</td>
+<td style="text-align: center; width: 60px;">400</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Fire+Witch+Armor"><img src="/file/Dark-Souls-3/fire_witch_armor-icon.png" alt width="64" height="100">Fire Witch Armor</a></td>
+<td style="text-align: center; width: 58px;">13.2</td>
+<td style="text-align: center; width: 58px;">8.5</td>
+<td style="text-align: center; width: 58px;">10.6</td>
+<td style="text-align: center; width: 58px;">10.6</td>
+<td style="text-align: center; width: 58px;">12.1</td>
+<td style="text-align: center; width: 58px;">12.3</td>
+<td style="text-align: center; width: 58px;">8.5</td>
+<td style="text-align: center; width: 58px;">11.1</td>
+<td style="text-align: center; width: 57px;">47</td>
+<td style="text-align: center; width: 57px;">34</td>
+<td style="text-align: center; width: 57px;">36</td>
+<td style="text-align: center; width: 57px;">27</td>
+<td style="text-align: center; width: 59px;">9.8</td>
+<td style="text-align: center; width: 59px;">10.9</td>
+<td style="text-align: center; width: 60px;">370</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Pontiff+Knight+Armor"><img src="/file/Dark-Souls-3/pontiff_knight_armor-icon.png" alt width="64" height="100">Pontiff Knight Armor</a></td>
+<td style="text-align: center; width: 58px;">9.3</td>
+<td style="text-align: center; width: 58px;">5.5</td>
+<td style="text-align: center; width: 58px;">9.3</td>
+<td style="text-align: center; width: 58px;">8.6</td>
+<td style="text-align: center; width: 58px;">12.9</td>
+<td style="text-align: center; width: 58px;">9.3</td>
+<td style="text-align: center; width: 58px;">11.9</td>
+<td style="text-align: center; width: 58px;">13.3</td>
+<td style="text-align: center; width: 57px;">40</td>
+<td style="text-align: center; width: 57px;">36</td>
+<td style="text-align: center; width: 57px;">81</td>
+<td style="text-align: center; width: 57px;">29</td>
+<td style="text-align: center; width: 59px;">6.0</td>
+<td style="text-align: center; width: 59px;">7.3</td>
+<td style="text-align: center; width: 60px;">280</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Silver+Knight+Armor"><img src="/file/Dark-Souls-3/silver_knight_armor-icon.png" alt width="64" height="100">Silver Knight Armor</a></td>
+<td style="text-align: center; width: 58px;">14.3</td>
+<td style="text-align: center; width: 58px;">13.1</td>
+<td style="text-align: center; width: 58px;">17.0</td>
+<td style="text-align: center; width: 58px;">16.3</td>
+<td style="text-align: center; width: 58px;">13.1</td>
+<td style="text-align: center; width: 58px;">12.9</td>
+<td style="text-align: center; width: 58px;">11.9</td>
+<td style="text-align: center; width: 58px;">11.9</td>
+<td style="text-align: center; width: 57px;">65</td>
+<td style="text-align: center; width: 57px;">55</td>
+<td style="text-align: center; width: 57px;">50</td>
+<td style="text-align: center; width: 57px;">39</td>
+<td style="text-align: center; width: 59px;">19.9</td>
+<td style="text-align: center; width: 59px;">14.4</td>
+<td style="text-align: center; width: 60px;">420</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Dark+Armor"><img src="/file/Dark-Souls-3/dark_armor-icon.png" alt width="64" height="100">Dark Armor</a></td>
+<td style="text-align: center; width: 58px;">12.6</td>
+<td style="text-align: center; width: 58px;">9.2</td>
+<td style="text-align: center; width: 58px;">11.6</td>
+<td style="text-align: center; width: 58px;">11.1</td>
+<td style="text-align: center; width: 58px;">9.2</td>
+<td style="text-align: center; width: 58px;">7.7</td>
+<td style="text-align: center; width: 58px;">4.4</td>
+<td style="text-align: center; width: 58px;">9.2</td>
+<td style="text-align: center; width: 57px;">38</td>
+<td style="text-align: center; width: 57px;">30</td>
+<td style="text-align: center; width: 57px;">33</td>
+<td style="text-align: center; width: 57px;">14</td>
+<td style="text-align: center; width: 59px;">8.8</td>
+<td style="text-align: center; width: 59px;">9.1</td>
+<td style="text-align: center; width: 60px;">350</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Clandestine+Coat"><img src="/file/Dark-Souls-3/clandestine_coat-icon.png" alt width="64" height="100">Clandestine Coat</a></td>
+<td style="text-align: center; width: 58px;">4.2</td>
+<td style="text-align: center; width: 58px;">4.2</td>
+<td style="text-align: center; width: 58px;">4.2</td>
+<td style="text-align: center; width: 58px;">3.6</td>
+<td style="text-align: center; width: 58px;">13.5</td>
+<td style="text-align: center; width: 58px;">12.9</td>
+<td style="text-align: center; width: 58px;">13.1</td>
+<td style="text-align: center; width: 58px;">13.5</td>
+<td style="text-align: center; width: 57px;">25</td>
+<td style="text-align: center; width: 57px;">36</td>
+<td style="text-align: center; width: 57px;">30</td>
+<td style="text-align: center; width: 57px;">65</td>
+<td style="text-align: center; width: 59px;">0.9</td>
+<td style="text-align: center; width: 59px;">3.0</td>
+<td style="text-align: center; width: 60px;">210</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Sellsword+Armor"><img src="/file/Dark-Souls-3/sellsword_armor-icon.png" alt width="64" height="100">Sellsword Armor</a></td>
+<td style="text-align: center; width: 58px;">12.2</td>
+<td style="text-align: center; width: 58px;">12.7</td>
+<td style="text-align: center; width: 58px;">12.2</td>
+<td style="text-align: center; width: 58px;">12.2</td>
+<td style="text-align: center; width: 58px;">11.1</td>
+<td style="text-align: center; width: 58px;">9.1</td>
+<td style="text-align: center; width: 58px;">7.3</td>
+<td style="text-align: center; width: 58px;">10.5</td>
+<td style="text-align: center; width: 57px;">59</td>
+<td style="text-align: center; width: 57px;">39</td>
+<td style="text-align: center; width: 57px;">35</td>
+<td style="text-align: center; width: 57px;">26</td>
+<td style="text-align: center; width: 59px;">11.5</td>
+<td style="text-align: center; width: 59px;">10.6</td>
+<td style="text-align: center; width: 60px;">370</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" title="Havel's Armor" href="/Havel's+Amor"><img src="/file/Dark-Souls-3/havel's_armor.png" alt width="70" height="100">Havel's Armor</a></td>
+<td style="text-align: center; width: 58px;">18.5</td>
+<td style="text-align: center; width: 58px;">17.0</td>
+<td style="text-align: center; width: 58px;">18.4</td>
+<td style="text-align: center; width: 58px;">17.5</td>
+<td style="text-align: center; width: 58px;">14.1</td>
+<td style="text-align: center; width: 58px;">16.2</td>
+<td style="text-align: center; width: 58px;">12.8</td>
+<td style="text-align: center; width: 58px;">14.1</td>
+<td style="text-align: center; width: 57px;">72</td>
+<td style="text-align: center; width: 57px;">69</td>
+<td style="text-align: center; width: 57px;">69</td>
+<td style="text-align: center; width: 57px;">61</td>
+<td style="text-align: center; width: 59px;">27.4</td>
+<td style="text-align: center; width: 59px;">21.6</td>
+<td style="text-align: center; width: 60px;">500</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Exile+Armor"><img src="/file/Dark-Souls-3/exile_armor-icon.png" alt width="64">Exile Armor</a></td>
+<td style="text-align: center; width: 58px;">18.2</td>
+<td style="text-align: center; width: 58px;">17.6</td>
+<td style="text-align: center; width: 58px;">16.6</td>
+<td style="text-align: center; width: 58px;">15.9</td>
+<td style="text-align: center; width: 58px;">12.4</td>
+<td style="text-align: center; width: 58px;">14.3</td>
+<td style="text-align: center; width: 58px;">12.6</td>
+<td style="text-align: center; width: 58px;">13.1</td>
+<td style="text-align: center; width: 57px;">97</td>
+<td style="text-align: center; width: 57px;">74</td>
+<td style="text-align: center; width: 57px;">62</td>
+<td style="text-align: center; width: 57px;">50</td>
+<td style="text-align: center; width: 59px;">23.1</td>
+<td style="text-align: center; width: 59px;">17.3</td>
+<td style="text-align: center; width: 60px;">470</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Leather+Armor"><img src="/file/Dark-Souls-3/leather_armor-icon.png" alt width="64" height="100">Leather Armor</a></td>
+<td style="text-align: center; width: 58px;">6.8</td>
+<td style="text-align: center; width: 58px;">6.8</td>
+<td style="text-align: center; width: 58px;">6.8</td>
+<td style="text-align: center; width: 58px;">6.8</td>
+<td style="text-align: center; width: 58px;">8.3</td>
+<td style="text-align: center; width: 58px;">9.0</td>
+<td style="text-align: center; width: 58px;">9.7</td>
+<td style="text-align: center; width: 58px;">8.3</td>
+<td style="text-align: center; width: 57px;">36</td>
+<td style="text-align: center; width: 57px;">58</td>
+<td style="text-align: center; width: 57px;">58</td>
+<td style="text-align: center; width: 57px;">43</td>
+<td style="text-align: center; width: 59px;">3.3</td>
+<td style="text-align: center; width: 59px;">5.4</td>
+<td style="text-align: center; width: 60px;">250</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Conjurator+Robe"><img src="/file/Dark-Souls-3/conjurator_robe-icon.png" alt width="64" height="100">Conjurator Robe</a></td>
+<td style="text-align: center; width: 58px;">3.8</td>
+<td style="text-align: center; width: 58px;">3.8</td>
+<td style="text-align: center; width: 58px;">3.8</td>
+<td style="text-align: center; width: 58px;">3.2</td>
+<td style="text-align: center; width: 58px;">11.7</td>
+<td style="text-align: center; width: 58px;">13.6</td>
+<td style="text-align: center; width: 58px;">13.3</td>
+<td style="text-align: center; width: 58px;">12.2</td>
+<td style="text-align: center; width: 57px;">31</td>
+<td style="text-align: center; width: 57px;">63</td>
+<td style="text-align: center; width: 57px;">44</td>
+<td style="text-align: center; width: 57px;">61</td>
+<td style="text-align: center; width: 59px;">1.1</td>
+<td style="text-align: center; width: 59px;">4.2</td>
+<td style="text-align: center; width: 60px;">230</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Mirrah+Chain+Mail"><img src="/file/Dark-Souls-3/mirrah_chain_mail-icon.png" alt width="64" height="100">Mirrah Chain Mail</a></td>
+<td style="text-align: center; width: 58px;">12.7</td>
+<td style="text-align: center; width: 58px;">10.5</td>
+<td style="text-align: center; width: 58px;">14.9</td>
+<td style="text-align: center; width: 58px;">10.5</td>
+<td style="text-align: center; width: 58px;">11.7</td>
+<td style="text-align: center; width: 58px;">11.2</td>
+<td style="text-align: center; width: 58px;">7.4</td>
+<td style="text-align: center; width: 58px;">9.1</td>
+<td style="text-align: center; width: 57px;">51</td>
+<td style="text-align: center; width: 57px;">33</td>
+<td style="text-align: center; width: 57px;">37</td>
+<td style="text-align: center; width: 57px;">26</td>
+<td style="text-align: center; width: 59px;">11.3</td>
+<td style="text-align: center; width: 59px;">10.4</td>
+<td style="text-align: center; width: 60px;">370</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Old+Sorcerer+Coat"><img src="/file/Dark-Souls-3/old_sorcerer_coat-icon.png" alt width="64">Old Sorcerer Coat</a></td>
+<td style="text-align: center; width: 58px;">3.6</td>
+<td style="text-align: center; width: 58px;">3.1</td>
+<td style="text-align: center; width: 58px;">3.1</td>
+<td style="text-align: center; width: 58px;">3.6</td>
+<td style="text-align: center; width: 58px;">12.7</td>
+<td style="text-align: center; width: 58px;">11.6</td>
+<td style="text-align: center; width: 58px;">12.1</td>
+<td style="text-align: center; width: 58px;">12.7</td>
+<td style="text-align: center; width: 57px;">32</td>
+<td style="text-align: center; width: 57px;">40</td>
+<td style="text-align: center; width: 57px;">35</td>
+<td style="text-align: center; width: 57px;">70</td>
+<td style="text-align: center; width: 59px;">1.0</td>
+<td style="text-align: center; width: 59px;">3.7</td>
+<td style="text-align: center; width: 60px;">220</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Armor+of+Thorns"><img src="/file/Dark-Souls-3/armor_of_thorns-icon.png" alt width="64">Armor of Thorns</a></td>
+<td style="text-align: center; width: 58px;">11.0</td>
+<td style="text-align: center; width: 58px;">8.1</td>
+<td style="text-align: center; width: 58px;">14.2</td>
+<td style="text-align: center; width: 58px;">11.5</td>
+<td style="text-align: center; width: 58px;">7.3</td>
+<td style="text-align: center; width: 58px;">7.3</td>
+<td style="text-align: center; width: 58px;">7.3</td>
+<td style="text-align: center; width: 58px;">5.9</td>
+<td style="text-align: center; width: 57px;">66</td>
+<td style="text-align: center; width: 57px;">27</td>
+<td style="text-align: center; width: 57px;">33</td>
+<td style="text-align: center; width: 57px;">22</td>
+<td style="text-align: center; width: 59px;">7.5</td>
+<td style="text-align: center; width: 59px;">8.5</td>
+<td style="text-align: center; width: 60px;">350</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Antiquated+Dress"><img src="/file/Dark-Souls-3/antiquated_dress-icon.png" alt width="64">Antiquated Dress</a></td>
+<td style="text-align: center; width: 58px;">3.2</td>
+<td style="text-align: center; width: 58px;">3.6</td>
+<td style="text-align: center; width: 58px;">3.2</td>
+<td style="text-align: center; width: 58px;">3.2</td>
+<td style="text-align: center; width: 58px;">12.3</td>
+<td style="text-align: center; width: 58px;">13.9</td>
+<td style="text-align: center; width: 58px;">11.8</td>
+<td style="text-align: center; width: 58px;">13.2</td>
+<td style="text-align: center; width: 57px;">21</td>
+<td style="text-align: center; width: 57px;">38</td>
+<td style="text-align: center; width: 57px;">27</td>
+<td style="text-align: center; width: 57px;">86</td>
+<td style="text-align: center; width: 59px;">1.2</td>
+<td style="text-align: center; width: 59px;">3.1</td>
+<td style="text-align: center; width: 60px;">210</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Alva+Armor"><img src="/file/Dark-Souls-3/alva_armor-icon.png" alt width="64">Alva Armor</a></td>
+<td style="text-align: center; width: 58px;">12.4</td>
+<td style="text-align: center; width: 58px;">10.2</td>
+<td style="text-align: center; width: 58px;">12.4</td>
+<td style="text-align: center; width: 58px;">11.4</td>
+<td style="text-align: center; width: 58px;">9.5</td>
+<td style="text-align: center; width: 58px;">11.4</td>
+<td style="text-align: center; width: 58px;">9.5</td>
+<td style="text-align: center; width: 58px;">10.9</td>
+<td style="text-align: center; width: 57px;">59</td>
+<td style="text-align: center; width: 57px;">35</td>
+<td style="text-align: center; width: 57px;">37</td>
+<td style="text-align: center; width: 57px;">21</td>
+<td style="text-align: center; width: 59px;">11.0</td>
+<td style="text-align: center; width: 59px;">9.0</td>
+<td style="text-align: center; width: 60px;">360</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Pale+Shade+Robe"><img style="width: 64px; height: nullpx;" src="/file/Dark-Souls-3/Pale_Shade_Robe.png" alt width="64" height="94">Pale Shade Robe</a></td>
+<td style="text-align: center; width: 58px;">4.3</td>
+<td style="text-align: center; width: 58px;">4.3</td>
+<td style="text-align: center; width: 58px;">4.3</td>
+<td style="text-align: center; width: 58px;">3.3</td>
+<td style="text-align: center; width: 58px;">13.4</td>
+<td style="text-align: center; width: 58px;">12.8</td>
+<td style="text-align: center; width: 58px;">11.8</td>
+<td style="text-align: center; width: 58px;">12.3</td>
+<td style="text-align: center; width: 57px;">35</td>
+<td style="text-align: center; width: 57px;">60</td>
+<td style="text-align: center; width: 57px;">32</td>
+<td style="text-align: center; width: 57px;">70</td>
+<td style="text-align: center; width: 59px;">2.0</td>
+<td style="text-align: center; width: 59px;">3.6</td>
+<td style="text-align: center; width: 60px;">-</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" title="Evangelist Robe" href="/Evangelist+Robe"><img src="/file/Dark-Souls-3/evangelist armor.png" alt width="69" height="100">Evangelist Robe</a></td>
+<td style="text-align: center; width: 58px;">12.8</td>
+<td style="text-align: center; width: 58px;">12.3</td>
+<td style="text-align: center; width: 58px;">12.3</td>
+<td style="text-align: center; width: 58px;">11.6</td>
+<td style="text-align: center; width: 58px;">10.6</td>
+<td style="text-align: center; width: 58px;">12.3</td>
+<td style="text-align: center; width: 58px;">9.9</td>
+<td style="text-align: center; width: 58px;">6.8</td>
+<td style="text-align: center; width: 57px;">49</td>
+<td style="text-align: center; width: 57px;">42</td>
+<td style="text-align: center; width: 57px;">36</td>
+<td style="text-align: center; width: 57px;">35</td>
+<td style="text-align: center; width: 59px;">12.5</td>
+<td style="text-align: center; width: 59px;">12.2</td>
+<td style="text-align: center; width: 60px;">380</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Ordained+Dress"><img src="/file/Dark-Souls-3/ordained_dress.png" alt width="86" height="100"></a><a class="wiki_link" title="Ordained Dress" href="/Ordained+Dress">Ordained Dress</a></td>
+<td style="text-align: center; width: 58px;">5.7</td>
+<td style="text-align: center; width: 58px;">3.9</td>
+<td style="text-align: center; width: 58px;">8.0</td>
+<td style="text-align: center; width: 58px;">2.9</td>
+<td style="text-align: center; width: 58px;">14.5</td>
+<td style="text-align: center; width: 58px;">11.4</td>
+<td style="text-align: center; width: 58px;">12.6</td>
+<td style="text-align: center; width: 58px;">12.6</td>
+<td style="text-align: center; width: 57px;">20</td>
+<td style="text-align: center; width: 57px;">53</td>
+<td style="text-align: center; width: 57px;">48</td>
+<td style="text-align: center; width: 57px;">69</td>
+<td style="text-align: center; width: 59px;">2.7</td>
+<td style="text-align: center; width: 59px;">4.4</td>
+<td style="text-align: center; width: 60px;">230</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" title="Evangelist Robe" href="/Evangelist+Robe"><img src="/file/Dark-Souls-3/follower_armor.png" alt width="64" height="100"></a><a class="wiki_link" title="Follower Armor" href="/Follower+Armor">Follower Armor</a></td>
+<td style="text-align: center; width: 58px;">7.1</td>
+<td style="text-align: center; width: 58px;">10.2</td>
+<td style="text-align: center; width: 58px;">8</td>
+<td style="text-align: center; width: 58px;">9.5</td>
+<td style="text-align: center; width: 58px;">10.2</td>
+<td style="text-align: center; width: 58px;">8.8</td>
+<td style="text-align: center; width: 58px;">10.9</td>
+<td style="text-align: center; width: 58px;">8.8</td>
+<td style="text-align: center; width: 57px;">37</td>
+<td style="text-align: center; width: 57px;">59</td>
+<td style="text-align: center; width: 57px;">65</td>
+<td style="text-align: center; width: 57px;">48</td>
+<td style="text-align: center; width: 59px;">2.7</td>
+<td style="text-align: center; width: 59px;">5.6</td>
+<td style="text-align: center; width: 60px;">??</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Millwood+Knight+Armor"><img src="/file/Dark-Souls-3/millwood_knight_armor.png" alt width="64" height="100"></a><a class="wiki_link" title="Millwood Knight Armor" href="/Millwood+Knight+Armor">Millwood Knight Armor</a></td>
+<td style="text-align: center; width: 58px;">18.3</td>
+<td style="text-align: center; width: 58px;">13.9</td>
+<td style="text-align: center; width: 58px;">17.5</td>
+<td style="text-align: center; width: 58px;">15.3</td>
+<td style="text-align: center; width: 58px;">13.0</td>
+<td style="text-align: center; width: 58px;">12.6</td>
+<td style="text-align: center; width: 58px;">13.0</td>
+<td style="text-align: center; width: 58px;">12.6</td>
+<td style="text-align: center; width: 57px;">67</td>
+<td style="text-align: center; width: 57px;">61</td>
+<td style="text-align: center; width: 57px;">69</td>
+<td style="text-align: center; width: 57px;">37</td>
+<td style="text-align: center; width: 59px;">20.2</td>
+<td style="text-align: center; width: 59px;">15.6</td>
+<td style="text-align: center; width: 60px;">450</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Slave+Knight+Armor"><img src="/file/Dark-Souls-3/slave_knight_armor.png" alt width="64" height="100"></a><a class="wiki_link" title="Slave Knight Armor" href="/Slave+Knight+Armor">Slave Knight Armor</a></td>
+<td style="text-align: center; width: 58px;">13.5</td>
+<td style="text-align: center; width: 58px;">10.9</td>
+<td style="text-align: center; width: 58px;">13.5</td>
+<td style="text-align: center; width: 58px;">10.2</td>
+<td style="text-align: center; width: 58px;">5.7</td>
+<td style="text-align: center; width: 58px;">8.0</td>
+<td style="text-align: center; width: 58px;">5.7</td>
+<td style="text-align: center; width: 58px;">7.1</td>
+<td style="text-align: center; width: 57px;">61</td>
+<td style="text-align: center; width: 57px;">34</td>
+<td style="text-align: center; width: 57px;">35</td>
+<td style="text-align: center; width: 57px;">20</td>
+<td style="text-align: center; width: 59px;">9.1</td>
+<td style="text-align: center; width: 59px;">8.7</td>
+<td style="text-align: center; width: 60px;">350</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" href="/Vilhelm's+Armor"><img src="/file/Dark-Souls-3/vilhelm_armor.png" alt width="64" height="100"></a><a class="wiki_link" title="Vilhelm's Armor" href="/Vilhelm's+Armor">Vilhelm's Armor</a></td>
+<td style="text-align: center; width: 58px;">12.9</td>
+<td style="text-align: center; width: 58px;">10.2</td>
+<td style="text-align: center; width: 58px;">12.9</td>
+<td style="text-align: center; width: 58px;">14.6</td>
+<td style="text-align: center; width: 58px;">9.5</td>
+<td style="text-align: center; width: 58px;">12.4</td>
+<td style="text-align: center; width: 58px;">5.7</td>
+<td style="text-align: center; width: 58px;">11.4</td>
+<td style="text-align: center; width: 57px;">44</td>
+<td style="text-align: center; width: 57px;">35</td>
+<td style="text-align: center; width: 57px;">37</td>
+<td style="text-align: center; width: 57px;">31</td>
+<td style="text-align: center; width: 59px;">13.0</td>
+<td style="text-align: center; width: 59px;">10.8</td>
+<td style="text-align: center; width: 60px;">370</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" title href="/Ringed+Knight+Armor" target>Ringed Knight Armor</a></td>
+<td style="text-align: center; width: 58px;">14.9</td>
+<td style="text-align: center; width: 58px;">11.6</td>
+<td style="text-align: center; width: 58px;">16.3</td>
+<td style="text-align: center; width: 58px;">14.3</td>
+<td style="text-align: center; width: 58px;">11.1</td>
+<td style="text-align: center; width: 58px;">13.2</td>
+<td style="text-align: center; width: 58px;">12.2</td>
+<td style="text-align: center; width: 58px;">9.8</td>
+<td style="text-align: center; width: 57px;">60</td>
+<td style="text-align: center; width: 57px;">36</td>
+<td style="text-align: center; width: 57px;">40</td>
+<td style="text-align: center; width: 57px;">34</td>
+<td style="text-align: center; width: 59px;">14.9</td>
+<td style="text-align: center; width: 59px;">12.6</td>
+<td style="text-align: center; width: 60px;">400</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" title href="/Lapp's+Armor" target>Lapp's Armor</a></td>
+<td style="text-align: center; width: 58px;">18.2</td>
+<td style="text-align: center; width: 58px;">15.5</td>
+<td style="text-align: center; width: 58px;">18.2</td>
+<td style="text-align: center; width: 58px;">18.2</td>
+<td style="text-align: center; width: 58px;">12.3</td>
+<td style="text-align: center; width: 58px;">12.7</td>
+<td style="text-align: center; width: 58px;">11.2</td>
+<td style="text-align: center; width: 58px;">12.3</td>
+<td style="text-align: center; width: 57px;">77</td>
+<td style="text-align: center; width: 57px;">61</td>
+<td style="text-align: center; width: 57px;">54</td>
+<td style="text-align: center; width: 57px;">38</td>
+<td style="text-align: center; width: 59px;">20.7</td>
+<td style="text-align: center; width: 59px;">15.6</td>
+<td style="text-align: center; width: 60px;">450</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" title href="/Iron+Dragonslayer+Armor" target>Iron Dragonslayer Armor</a></td>
+<td style="text-align: center; width: 58px;">15.7</td>
+<td style="text-align: center; width: 58px;">11.6</td>
+<td style="text-align: center; width: 58px;">16.5</td>
+<td style="text-align: center; width: 58px;">17.2</td>
+<td style="text-align: center; width: 58px;">9.9</td>
+<td style="text-align: center; width: 58px;">11.6</td>
+<td style="text-align: center; width: 58px;">13.8</td>
+<td style="text-align: center; width: 58px;">13.2</td>
+<td style="text-align: center; width: 57px;">81</td>
+<td style="text-align: center; width: 57px;">54</td>
+<td style="text-align: center; width: 57px;">60</td>
+<td style="text-align: center; width: 57px;">29</td>
+<td style="text-align: center; width: 59px;">20.1</td>
+<td style="text-align: center; width: 59px;">14.8</td>
+<td style="text-align: center; width: 60px;">450</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" title href="/Harald+Legion+Armor" target>Harald Legion Armor</a></td>
+<td style="text-align: center; width: 58px;">18.3</td>
+<td style="text-align: center; width: 58px;">16.7</td>
+<td style="text-align: center; width: 58px;">18.6</td>
+<td style="text-align: center; width: 58px;">18.3</td>
+<td style="text-align: center; width: 58px;">12.6</td>
+<td style="text-align: center; width: 58px;">12.7</td>
+<td style="text-align: center; width: 58px;">12.2</td>
+<td style="text-align: center; width: 58px;">13.6</td>
+<td style="text-align: center; width: 57px;">68</td>
+<td style="text-align: center; width: 57px;">62</td>
+<td style="text-align: center; width: 57px;">61</td>
+<td style="text-align: center; width: 57px;">60</td>
+<td style="text-align: center; width: 59px;">20.7</td>
+<td style="text-align: center; width: 59px;">17.2</td>
+<td style="text-align: center; width: 60px;">470</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" title href="/Ruin+Armor" target>Ruin Armor</a></td>
+<td style="text-align: center; width: 58px;">13.7</td>
+<td style="text-align: center; width: 58px;">13.1</td>
+<td style="text-align: center; width: 58px;">16.3</td>
+<td style="text-align: center; width: 58px;">13.7</td>
+<td style="text-align: center; width: 58px;">12.8</td>
+<td style="text-align: center; width: 58px;">11.6</td>
+<td style="text-align: center; width: 58px;">12.2</td>
+<td style="text-align: center; width: 58px;">10.5</td>
+<td style="text-align: center; width: 57px;">62</td>
+<td style="text-align: center; width: 57px;">60</td>
+<td style="text-align: center; width: 57px;">35</td>
+<td style="text-align: center; width: 57px;">32</td>
+<td style="text-align: center; width: 59px;">17.4</td>
+<td style="text-align: center; width: 59px;">12.9</td>
+<td style="text-align: center; width: 60px;">400</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" title href="/Desert+Pyromancer+Garb" target>Desert Pyromancer Garb</a></td>
+<td style="text-align: center; width: 58px;">3.7</td>
+<td style="text-align: center; width: 58px;">2.9</td>
+<td style="text-align: center; width: 58px;">2.4</td>
+<td style="text-align: center; width: 58px;">2.4</td>
+<td style="text-align: center; width: 58px;">10.5</td>
+<td style="text-align: center; width: 58px;">11.1</td>
+<td style="text-align: center; width: 58px;">12.7</td>
+<td style="text-align: center; width: 58px;">11.7</td>
+<td style="text-align: center; width: 57px;">16</td>
+<td style="text-align: center; width: 57px;">64</td>
+<td style="text-align: center; width: 57px;">25</td>
+<td style="text-align: center; width: 57px;">66</td>
+<td style="text-align: center; width: 59px;">0.9</td>
+<td style="text-align: center; width: 59px;">2.3</td>
+<td style="text-align: center; width: 60px;">200</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" title href="/Black+Witch+Garb" target>Black Witch Garb</a></td>
+<td style="text-align: center; width: 58px;">3.7</td>
+<td style="text-align: center; width: 58px;">4.2</td>
+<td style="text-align: center; width: 58px;">4.2</td>
+<td style="text-align: center; width: 58px;">2.7</td>
+<td style="text-align: center; width: 58px;">13.8</td>
+<td style="text-align: center; width: 58px;">13.5</td>
+<td style="text-align: center; width: 58px;">13.5</td>
+<td style="text-align: center; width: 58px;">14.1</td>
+<td style="text-align: center; width: 57px;">15</td>
+<td style="text-align: center; width: 57px;">39</td>
+<td style="text-align: center; width: 57px;">28</td> 
+<td style="text-align: center; width: 57px;">69</td>
+<td style="text-align: center; width: 59px;">0.5</td>
+<td style="text-align: center; width: 59px;">3.6</td>
+<td style="text-align: center; width: 60px;">220</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" title href="/Antiquated+Plain+Garb" target>Antiquated Plain Garb</a></td>
+<td style="text-align: center; width: 58px;">3.7</td>
+<td style="text-align: center; width: 58px;">3.1</td>
+<td style="text-align: center; width: 58px;">2.7</td>
+<td style="text-align: center; width: 58px;">2.4</td>
+<td style="text-align: center; width: 58px;">12.7</td>
+<td style="text-align: center; width: 58px;">11.1</td>
+<td style="text-align: center; width: 58px;">12.2</td>
+<td style="text-align: center; width: 58px;">12.3</td>
+<td style="text-align: center; width: 57px;">30</td>
+<td style="text-align: center; width: 57px;">47</td>
+<td style="text-align: center; width: 57px;">25</td>
+<td style="text-align: center; width: 57px;">60</td>
+<td style="text-align: center; width: 59px;">0.9</td>
+<td style="text-align: center; width: 59px;">3.1</td>
+<td style="text-align: center; width: 60px;">210</td>
+</tr>
+<tr>
+<td style="width: 344px;"><a class="wiki_link" title href="/Shira's+Armor" target>Shira's Armor</a></td>
+<td style="text-align: center; width: 58px;">7.7</td>
+<td style="text-align: center; width: 58px;">9.3</td>
+<td style="text-align: center; width: 58px;">7.7</td>
+<td style="text-align: center; width: 58px;">10.0</td>
+<td style="text-align: center; width: 58px;">11.1</td>
+<td style="text-align: center; width: 58px;">11.7</td>
+<td style="text-align: center; width: 58px;">11.1</td>
+<td style="text-align: center; width: 58px;">8.6</td>
+<td style="text-align: center; width: 57px;">38</td>
+<td style="text-align: center; width: 57px;">62</td>
+<td style="text-align: center; width: 57px;">61</td>
+<td style="text-align: center; width: 57px;">62</td>
+<td style="text-align: center; width: 59px;">3.7</td>
+<td style="text-align: center; width: 59px;">6.7</td>
+<td style="text-align: center; width: 60px;">270</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<br><br><br>
