@@ -41,11 +41,12 @@ def stat_value(key, array):
 
 count2 = 0
 for i in grand_array:
-##    if float(stat_value('Weight', i))>20:
-##        numero = round(float(stat_value('Poise', i))/float(stat_value('Weight', i)), 2)
+##    if float(stat_value('Weight', i))>15:
+        numero=round(float(stat_value('Poise', i)))
+##        numero = round(float(stat_value('Bleed Resistance', i))/float(stat_value('Weight', i)), 2)
 ##        if numero>1.2:
-        numero=round(float(stat_value('Weight', i)))
-        print(stat_value('Name', i))
+##        numero=round(float(stat_value('Thrust Defense', i)))
+##        print(stat_value('Name', i))
         number_array.append(numero)
 
 print(grand_array[number_array.index(max(number_array))][0], '@', max(number_array))
